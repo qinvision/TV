@@ -1153,24 +1153,3 @@ CGTN-BST,http://219.139.230.143:34567/bst/cctvnews@2500000.m3u8
 咪视通-43,http://219.139.230.143:34567/itv/3000000010000025380.m3u8?cdn=FifastbLive
 咪视通-44,http://219.139.230.143:34567/itv/3000000010000027691.m3u8?cdn=FifastbLive
 
-📺开心电视_4520,#genre#
-
-
-PEN1,http://pullsstx.peiyou.eaydu.com/live/f57f816057b80244b081cf428b8e6b6e.m3u8
-PEN2,http://pullsstx.peiyou.eaydu.com/live/19911260b8370bfda267dd01cbc5943f.m3u8
-XMX1,http://pullsstx.peiyou.eaydu.com/live/e90ffe8d78ff934afaf543e36612c010.m3u8
-XMX2,http://pullsstx.peiyou.eaydu.com/live/37f0819c95974658384d0731687d67c7.m3u8
-XMX3,http://pullsstx.peiyou.eaydu.com/live/ac2cdaab6d2851840a89d0459aa95cf9.m3u8
-DORCR,http://pullsstx.peiyou.eaydu.com/live/aed49061e76c3ba3942e6ce111df19bc.m3u8
-巨乳台,http://pullsstx.peiyou.eaydu.com/live/ddfa3c95f3438aeab9b3820a91da9a95.m3u8
-视1台,http://pull.infojin.cyou/live/5b8d313acab75fc244bcbfd68529b753.m3u8
-视2台,http://pull.infojin.cyou/live/1f62101308a1c62ced8d406326c66042.m3u8
-视3台,http://pull.infojin.cyou/live/07343426c3e9f06f6f147b7dfaf2f68c.m3u8
-虹e台,http://pull.infojin.cyou/live/65791a4d7cd6dee9c145ecb87890817f.m3u8
-K台,http://pull.infojin.cyou/live/b440f3a73d7d097f5c18d0be7983419b.m3u8
-电影,http://pullsstx.peiyou.eaydu.com/live/33309fd002dbfeeabd88ab98914fa454.m3u8
-潘多拉,http://pull.infojin.cyou/live/6d3111caf12d666dfe985d9e4d2c3ef0.m3u8
-惊艳,http://pullsstx.peiyou.eaydu.com/live/6002db8453fd301257b8a9ab7823d515.m3u8
-香蕉,http://pullsstx.peiyou.eaydu.com/live/941854546a52cfff4a8b83242bf06548.m3u8
-Hppy,http://pull.infojin.cyou/live/fa1f6a58614c878a976fe93eda51c14f.m3u8
-极致,http://pull.infojin.cyou/live/a911a337811781ee0900b6aa2f2a4a91.m3u8
