@@ -9,8 +9,58 @@ https://ghfast.top/https://raw.githubusercontent.com/qinvision/TV/refs/heads/mai
 
 
 
+█████████████████████████████████████████████
+📺河南电信酒店,#genre#
+█████████████████████████████████████████████
 
-
+来自河南电信的酒店源(1.192.71.214:85)共有47个频道：
+CCTV-1,http://1.192.71.214:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://1.192.71.214:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://1.192.71.214:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://1.192.71.214:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://1.192.71.214:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://1.192.71.214:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://1.192.71.214:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://1.192.71.214:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://1.192.71.214:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://1.192.71.214:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://1.192.71.214:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://1.192.71.214:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://1.192.71.214:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://1.192.71.214:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://1.192.71.214:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://1.192.71.214:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+都市频道,http://1.192.71.214:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+民生频道,http://1.192.71.214:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+法制频道,http://1.192.71.214:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+电视剧频道,http://1.192.71.214:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻频道,http://1.192.71.214:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+公共频道,http://1.192.71.214:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+梨园频道,http://1.192.71.214:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+郑州新闻综合,http://1.192.71.214:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+郑州影视戏曲频道,http://1.192.71.214:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+郑州都市生活频道,http://1.192.71.214:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+调解剧场,http://1.192.71.214:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://1.192.71.214:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://1.192.71.214:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://1.192.71.214:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://1.192.71.214:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://1.192.71.214:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://1.192.71.214:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://1.192.71.214:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://1.192.71.214:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://1.192.71.214:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://1.192.71.214:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://1.192.71.214:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://1.192.71.214:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://1.192.71.214:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://1.192.71.214:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://1.192.71.214:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://1.192.71.214:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://1.192.71.214:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰动画,http://1.192.71.214:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+佳佳动画,http://1.192.71.214:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+炫动卡通,http://1.192.71.214:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 
 █████████████████████████████████████████████
 📺辽宁联通酒店,#genre#
@@ -1145,6 +1195,7 @@ CGTN-BST,http://219.139.230.143:34567/bst/cctvnews@2500000.m3u8
 咪视通-42,http://219.139.230.143:34567/itv/3000000010000023434.m3u8?cdn=FifastbLive
 咪视通-43,http://219.139.230.143:34567/itv/3000000010000025380.m3u8?cdn=FifastbLive
 咪视通-44,http://219.139.230.143:34567/itv/3000000010000027691.m3u8?cdn=FifastbLive
+
 
 
 
