@@ -64,123 +64,7 @@ CCTV17,http://110.178.210.209:9003/hls/18/index.m3u8
 █████████████████████████████████████████████
 📺广西电信酒店,#genre#
 █████████████████████████████████████████████
-来自广西电信的酒店源(222.218.158.110:8181)共有112个频道：
-CCTV-1-高清K1,http://222.218.158.110:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2K1,http://222.218.158.110:8181/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3高清K1,http://222.218.158.110:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4K1,http://222.218.158.110:8181/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5 K2,http://222.218.158.110:8181/tsfile/live/faacts/1130_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6B1,http://222.218.158.110:8181/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7国防高清K2,http://222.218.158.110:8181/tsfile/live/faacts/1124_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8高清K1,http://222.218.158.110:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9B8,http://222.218.158.110:8181/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10K1,http://222.218.158.110:8181/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11W,http://222.218.158.110:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12高清K2,http://222.218.158.110:8181/tsfile/live/faacts/1132_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://222.218.158.110:8181/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14高清K2,http://222.218.158.110:8181/tsfile/live/faacts/1126_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-音乐K1,http://222.218.158.110:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-16奥运K2,http://222.218.158.110:8181/tsfile/live/faacts/1111_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17农业K2,http://222.218.158.110:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+K1,http://222.218.158.110:8181/tsfile/live/faacts/1100_1.m3u8?key=txiptv&playlive=1&authid=0
-广西合浦w,http://222.218.158.110:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-来自广西电信的酒店源(222.218.158.110:8181)共有112个频道：
-北海经济科教w,http://222.218.158.110:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-北海新闻综合w,http://222.218.158.110:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-广西综艺高清,http://222.218.158.110:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-广西都市高清,http://222.218.158.110:8181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-广西新闻高清,http://222.218.158.110:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-广西影视高清,http://222.218.158.110:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-珠江台高清,http://222.218.158.110:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东科教高清,http://222.218.158.110:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-南方卫视高清,http://222.218.158.110:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-广东综艺 4K,http://222.218.158.110:8181/tsfile/live/faacts/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视高清,http://222.218.158.110:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-岭南戏曲高清,http://222.218.158.110:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东嘉佳卡通,http://222.218.158.110:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻高清,http://222.218.158.110:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-广东公共高清,http://222.218.158.110:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-广东少儿高清,http://222.218.158.110:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育看不到后面找,http://222.218.158.110:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳都市-高清,http://222.218.158.110:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳电视剧-高清,http://222.218.158.110:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-怀旧剧场-高清,http://222.218.158.110:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳体育-高清,http://222.218.158.110:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-广州综合高清,http://222.218.158.110:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-都市剧场,http://222.218.158.110:8181/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5B2,http://222.218.158.110:8181/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC高清电影B3,http://222.218.158.110:8181/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-通用73台 B4,http://222.218.158.110:8181/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-8戏曲B5,http://222.218.158.110:8181/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
-S影院B6,http://222.218.158.110:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CMCCB7,http://222.218.158.110:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-中国天气B9,http://222.218.158.110:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-星河B11,http://222.218.158.110:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-广西综艺B12,http://222.218.158.110:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-B10,http://222.218.158.110:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院K1,http://222.218.158.110:8181/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
-经典重温K2,http://222.218.158.110:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
-广西高清K2,http://222.218.158.110:8181/tsfile/live/faacts/1128_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影K1,http://222.218.158.110:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
-第一剧场 高清,http://222.218.158.110:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-佳佳卡通W,http://222.218.158.110:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
-来自广西电信的酒店源(222.218.158.110:8181)共有112个频道：
-湖南卫视W,http://222.218.158.110:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈卡通W,http://222.218.158.110:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视高清,http://222.218.158.110:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-少儿动画,http://222.218.158.110:8181/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-热播剧场,http://222.218.158.110:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-全纪实,http://222.218.158.110:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-上海卫视W,http://222.218.158.110:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视W,http://222.218.158.110:8181/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视W,http://222.218.158.110:8181/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通W,http://222.218.158.110:8181/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
-福建卫视w,http://222.218.158.110:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南高清K2,http://222.218.158.110:8181/tsfile/live/faacts/1127_1.m3u8?key=txiptv&playlive=1&authid=0
-边延卫视W,http://222.218.158.110:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽高清K2,http://222.218.158.110:8181/tsfile/live/faacts/1125_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视-高清K1,http://222.218.158.110:8181/tsfile/live/faacts/1102_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视-高清K1,http://222.218.158.110:8181/tsfile/live/faacts/1103_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视-高清K1,http://222.218.158.110:8181/tsfile/live/faacts/1104_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视-高清K1,http://222.218.158.110:8181/tsfile/live/faacts/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视-高清K1,http://222.218.158.110:8181/tsfile/live/faacts/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳高清K2,http://222.218.158.110:8181/tsfile/live/faacts/1131_1.m3u8?key=txiptv&playlive=1&authid=0
-来自广西电信的酒店源(222.218.158.110:8181)共有112个频道：
-天津卫视-高清K1,http://222.218.158.110:8181/tsfile/live/faacts/1108_1.m3u8?key=txiptv&playlive=1&authid=0
-网络棋牌-付费,http://222.218.158.110:8181/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
-新动漫-付费,http://222.218.158.110:8181/tsfile/live/1112_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://222.218.158.110:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-中华特产-付费,http://222.218.158.110:8181/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视W,http://222.218.158.110:8181/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-先锋乒羽-付费,http://222.218.158.110:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视W,http://222.218.158.110:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-天元围棋-付费,http://222.218.158.110:8181/tsfile/live/1116_1.m3u8?key=txiptv&playlive=1&authid=0
-收藏天下-付费,http://222.218.158.110:8181/tsfile/live/1117_1.m3u8?key=txiptv&playlive=1&authid=0
-优优宝贝-付费,http://222.218.158.110:8181/tsfile/live/1118_1.m3u8?key=txiptv&playlive=1&authid=0
-武术世界,http://222.218.158.110:8181/tsfile/live/1119_1.m3u8?key=txiptv&playlive=1&authid=0
-生态环境-付费,http://222.218.158.110:8181/tsfile/live/1120_1.m3u8?key=txiptv&playlive=1&authid=0
-中国教育4套x,http://222.218.158.110:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视高清,http://222.218.158.110:8181/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视高清,http://222.218.158.110:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视高清,http://222.218.158.110:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-精彩影视x,http://222.218.158.110:8181/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://222.218.158.110:8181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实高清,http://222.218.158.110:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-来自广西电信的酒店源(222.218.158.110:8181)共有112个频道：
-浙江高清K2,http://222.218.158.110:8181/tsfile/live/faacts/1129_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江备用,http://222.218.158.110:8181/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
-风云剧场 高清,http://222.218.158.110:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目5,http://222.218.158.110:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目7,http://222.218.158.110:8181/tsfile/live/1134_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目10,http://222.218.158.110:8181/tsfile/live/1135_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目9,http://222.218.158.110:8181/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目11,http://222.218.158.110:8181/tsfile/live/1137_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目8,http://222.218.158.110:8181/tsfile/live/1138_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目3,http://222.218.158.110:8181/tsfile/live/1139_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目4,http://222.218.158.110:8181/tsfile/live/1140_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育备用粤语节目6,http://222.218.158.110:8181/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目2,http://222.218.158.110:8181/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0
-粤语节目1,http://222.218.158.110:8181/tsfile/live/1142_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 █████████████████████████████████████████████
 📺山西电信酒店,#genre#
@@ -1025,6 +909,7 @@ CGTN-BST,http://27.18.133.254:49163/bst/cctvnews@2500000.m3u8
 疯狂的佛牌HD中字喜剧片泰国,https://cdn.yzzy29-play.com/20250803/476_598b3e71/index.m3u8
 赌博默示录2HD中字剧情片日本,https://cdn.yzzy29-play.com/20250803/475_5ef0b4eb/index.m3u8
 地球上的星星2HD中字喜剧片印度,https://cdn.yzzy29-play.com/20250803/474_25ddc0f8/index.m3u8
+
 
 
 
