@@ -345,34 +345,42 @@ TVBS新闻台,http://api.mytv666.top/api/hk.php?id=63663662323130666235646537343
 
 *****************************************************************************************************************************************************************************
 FTV综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mszyt.flv
-TVBS,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbs.flv
-TVBS新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbsxwt.flv
-TVB明珠台15,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mzt.flv
-V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
-八大第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
-八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
 东森LIVE,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dsxw.flv
 东森财经新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dscjxw.flv
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhwszwt-012346789.flv
 凤凰咨询,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 凤凰咨询,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhwszxt-012346789.flv
+中天亚洲台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztyzt.flv
+Now星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.flv
+viuTV6,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_viutv6.flv
+东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
+东森综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
+中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+TVBS,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbs.flv
+TVBS新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbsxwt.flv
+V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+香港HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+明珠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mz.flv
+无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+八大第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
 华视新闻资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-hsxw.flv
-美亚电影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
 民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ms.flv
 民视第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msdyt.flv
 民视台湾台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mstwt.flv
 民视新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
 民视新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msxwt.flv
-三立新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-slxw.flv
 三立综合台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-slzh.flv
-香港HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
-中天亚洲台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztyzt.flv
-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ms.flv
+民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyz.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw1.flv
+中天娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyl.flv
+
 
 █████████████████████████████████████████████
 📻国家电台,#genre#
@@ -1381,6 +1389,7 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 周杰伦精选120首(8小时),https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 周深精选72首(5小时),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 庄心妍精选44首(2小时),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
+
 
 
 
