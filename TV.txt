@@ -8,8 +8,65 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/m
 
 
 
-
-
+█████████████████████████████████████████████
+📺测试频道test2,#genre#
+█████████████████████████████████████████████
+CCTV-1综合,http://jackgao.top:35455/gptv/G_CCTV-1-HQ.m3u8
+CCTV-2财经,http://jackgao.top:35455/gptv/G_CCTV-2-HQ.m3u8
+CCTV-3综艺,http://jackgao.top:35455/gptv/G_CCTV-3-HQ.m3u8
+CCTV-4中文国际,http://jackgao.top:35455/gptv/G_CCTV-4-HQ.m3u8
+CCTV-5体育,http://jackgao.top:35455/gptv/G_CCTV-5-HQ.m3u8
+CCTV-6电影,http://jackgao.top:35455/gptv/G_CCTV-6-HQ.m3u8
+CCTV-8电视剧,http://jackgao.top:35455/gptv/G_CCTV-8-HQ.m3u8
+CCTV-9纪录,http://jackgao.top:35455/gptv/G_CCTV-9-HQ.m3u8
+CCTV-10科教,http://jackgao.top:35455/gptv/G_CCTV-10-HQ.m3u8
+CCTV-11戏曲,http://jackgao.top:35455/gptv/G_CCTV-11-HQ.m3u8
+CCTV-12社会与法,http://jackgao.top:35455/gptv/G_CCTV-12-HQ.m3u8
+CCTV-13新闻,http://jackgao.top:35455/gptv/G_CCTV-13-HQ.m3u8
+CCTV-14少儿,http://jackgao.top:35455/gptv/G_CCTV-14-HQ.m3u8
+CCTV-15音乐,http://jackgao.top:35455/gptv/G_CCTV-15-HQ.m3u8
+CCTV-16奥林匹克,http://jackgao.top:35455/gptv/G_CCTV-16-HQ.m3u8
+CCTV-17农业农村,http://jackgao.top:35455/gptv/G_CCTV-17-HQ.m3u8
+CCTV-5+体育赛事,http://jackgao.top:35455/gptv/G_CCTV-5PLUS-HQ.m3u8
+北京卫视,http://jackgao.top:35455/gptv/G_BEIJING-HQ.m3u8
+天津卫视,http://jackgao.top:35455/gptv/G_TIANJIN-HQ.m3u8
+东方卫视,http://jackgao.top:35455/gptv/G_DONGFANG-HQ.m3u8
+东南卫视,http://jackgao.top:35455/gptv/G_DONGNAN-HQ.m3u8
+海南卫视,http://jackgao.top:35455/gptv/G_HAINAN-HQ.m3u8
+广东卫视,http://jackgao.top:35455/gptv/G_GUANGDONG-HQ.m3u8
+广西卫视,http://jackgao.top:35455/gptv/G_GUANGXI-HQ.m3u8
+深圳卫视,http://jackgao.top:35455/gptv/G_SHENZHEN-HQ.m3u8
+江苏卫视,http://jackgao.top:35455/gptv/G_JIANGSU-HQ.m3u8
+江西卫视,http://jackgao.top:35455/gptv/G_JIANGXI-HQ.m3u8
+浙江卫视,http://jackgao.top:35455/gptv/G_ZHEJIANG-HQ.m3u8
+湖南卫视,http://jackgao.top:35455/gptv/G_HUNAN-HQ.m3u8
+湖北卫视,http://jackgao.top:35455/gptv/G_HUBEI-HQ.m3u8
+安徽卫视,http://jackgao.top:35455/gptv/G_ANHUI-HQ.m3u8
+河南卫视,http://jackgao.top:35455/gptv/G_HENAN-HQ.m3u8
+河北卫视,http://jackgao.top:35455/gptv/G_HEBEI-HQ.m3u8
+厦门卫视,http://jackgao.top:35455/gptv/G_XIAMEN.m3u8
+吉林卫视,http://jackgao.top:35455/gptv/G_JILIN-HQ.m3u8
+辽宁卫视,http://jackgao.top:35455/gptv/G_LIAONING-HQ.m3u8
+云南卫视,http://jackgao.top:35455/gptv/G_YUNNAN-HQ.m3u8
+贵州卫视,http://jackgao.top:35455/gptv/G_GUIZHOU-HQ.m3u8
+四川卫视,http://jackgao.top:35455/gptv/G_SICHUAN-HQ.m3u8
+重庆卫视,http://jackgao.top:35455/gptv/G_CHONGQING-HQ.m3u8
+陕西卫视,http://jackgao.top:35455/gptv/G_SHANXI-HQ.m3u8
+甘肃卫视,http://jackgao.top:35455/gptv/G_GANSU-HQ.m3u8
+宁夏卫视,http://jackgao.top:35455/gptv/G_NINGXIA.m3u8
+青海卫视,http://jackgao.top:35455/gptv/G_QINGHAI.m3u8
+西藏卫视,http://jackgao.top:35455/gptv/G_XIZANG.m3u8
+新疆卫视,http://jackgao.top:35455/gptv/G_XINJIANG.m3u8
+兵团卫视,http://jackgao.top:35455/gptv/G_BINGTUAN.m3u8
+教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+龙江卫视,http://jackgao.top:35455/gptv/G_HEILONGJIANG-HQ.m3u8
+内蒙卫视,http://jackgao.top:35455/gptv/G_NEIMENGGU.m3u8
+三沙卫视,http://jackgao.top:35455/gptv/G_SANSHA-HQ.m3u8
+卡酷少儿,http://jackgao.top:35455/gptv/G_KAKU.m3u8
+哈哈炫动,http://jackgao.top:35455/gptv/G_XUANDONG.m3u8
+优漫卡通,http://jackgao.top:35455/gptv/G_YOUMAN.m3u8
+嘉佳卡通,http://jackgao.top:35455/gptv/G_JIAJIA.m3u8
+金鹰卡通,http://jackgao.top:35455/gptv/G_JINYING.m3u8
 █████████████████████████████████████████████
 📺测试频道test,#genre#
 █████████████████████████████████████████████
@@ -1721,6 +1778,7 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 周杰伦精选120首(8小时),https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 周深精选72首(5小时),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 庄心妍精选44首(2小时),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
+
 
 
 
