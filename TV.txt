@@ -9,7 +9,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/m
 █████████████████████████████████████████████
 📺郑州联通酒店,#genre#
 █████████████████████████████████████████████
-
+CCTV-1高清,http://123.14.91.38:9003/hls/1/index.m3u8
 CCTV-2高清,http://123.14.91.38:9003/hls/2/index.m3u8
 CCTV-3高清,http://123.14.91.38:9003/hls/3/index.m3u8
 CCTV-4高清,http://123.14.91.38:9003/hls/4/index.m3u8
@@ -1849,6 +1849,7 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 周杰伦精选120首(8小时),https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 周深精选72首(5小时),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 庄心妍精选44首(2小时),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
+
 
 
 
