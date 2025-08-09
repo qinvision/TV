@@ -12,7 +12,32 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/m
 
 
 
-
+█████████████████████████████████████████████
+📺咪咕信号,#genre#
+█████████████████████████████████████████████
+CCTV1,https://migu.188766.xyz/?migutoken=3031a45dea5022f2b2e943c02d40cf8c&id=CCTV1&pp=1
+CCTV2,https://migu.188766.xyz/?migutoken=1d5f3bb8ce15c9f2dc726d6e4194e4e1&id=CCTV2&pp=1
+CCTV5+,https://migu.188766.xyz/?migutoken=a5fac982699d98b82a0d0312ce01fd44&id=CCTV5p&pp=1
+CCTV6,https://migu.188766.xyz/?migutoken=ecebca7d235c5e9fa2105bae802ff2fe&id=CCTV6&pp=1
+CCTV7,https://migu.188766.xyz/?migutoken=2c7b5f01ce906658cd12e8297b68f04f&id=CCTV7&pp=1
+CCTV8,https://migu.188766.xyz/?migutoken=3ff9988ad2631f0bcbc7a50a02f02987&id=CCTV8&pp=1
+CCTV9,https://migu.188766.xyz/?migutoken=00bd910cba6214b738a730364b83b327&id=CCTV9&pp=1
+CCTV10,https://migu.188766.xyz/?migutoken=348d345b8ec820082e56cc752bb1447d&id=CCTV10&pp=1
+CCTV11,https://migu.188766.xyz/?migutoken=328f70ef1f9720d925fc6aeeb95505f3&id=CCTV11&pp=1
+CCTV12,https://migu.188766.xyz/?migutoken=743da74a1b66468d644b8b0d010092bc&id=CCTV12&pp=1
+CCTV15,https://migu.188766.xyz/?migutoken=d5aae87a7859783e29eefa2c36b5691c&id=CCTV15&pp=1
+CCTV16,https://migu.188766.xyz/?migutoken=14af458b61b595513a065fa82792e79f&id=CCTV16&pp=1
+CCTV17,https://migu.188766.xyz/?migutoken=28d30809dfa242bbf3708c45f810bba7&id=CCTV17&pp=1
+CHC动作电影,https://migu.188766.xyz/?migutoken=e3e3e5b9383cc30f6cb2893028b16f21&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+CHC家庭影院,https://migu.188766.xyz/?migutoken=b86cbe0dd33c2cbe4769949683152078&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+CHC影迷电影,https://migu.188766.xyz/?migutoken=96728680e49465e8a6f86d8a4c2535c1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
+大湾区卫视,https://migu.188766.xyz/?migutoken=b585c679b1554118b3df943cc6264012&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+东方卫视,https://migu.188766.xyz/?migutoken=5cadf2602a9e1d51d9f0b8353ae62c86&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
+广东卫视,https://migu.188766.xyz/?migutoken=501f91c99350b42aaa31641599d1e5bd&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
+湖南卫视,https://migu.188766.xyz/?migutoken=099f266cb97742300de447111f7e2458&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&pp=1
+江苏卫视,https://migu.188766.xyz/?migutoken=6e4b3daedaf88612c0259854f76d47d9&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+香港卫视,https://migu.188766.xyz/?migutoken=33aeb96928f3547a02f083b0286c869b&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
+浙江卫视,https://migu.188766.xyz/?migutoken=e42c7b0a9763c6e07455f36a33811a4c&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 
 █████████████████████████████████████████████
 📺山西电信酒店,#genre#
@@ -1387,6 +1412,7 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 周杰伦精选120首(8小时),https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 周深精选72首(5小时),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 庄心妍精选44首(2小时),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
+
 
 
 
