@@ -4,7 +4,118 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/m
 
 
 
+█████████████████████████████████████████████
+📺沈阳联通酒店,#genre#
+█████████████████████████████████████████████
+来自辽宁联通的酒店源(113.233.139.205:3153)共有102个频道：
+CCTV1-综合,http://113.233.139.205:3153/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://113.233.139.205:3153/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://113.233.139.205:3153/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://113.233.139.205:3153/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://113.233.139.205:3153/tsfile/live/0005_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://113.233.139.205:3153/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://113.233.139.205:3153/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://113.233.139.205:3153/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://113.233.139.205:3153/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://113.233.139.205:3153/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://113.233.139.205:3153/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://113.233.139.205:3153/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://113.233.139.205:3153/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://113.233.139.205:3153/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://113.233.139.205:3153/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://113.233.139.205:3153/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁北方,http://113.233.139.205:3153/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://113.233.139.205:3153/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁教育青少,http://113.233.139.205:3153/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+来自辽宁联通的酒店源(113.233.139.205:3153)共有102个频道：
+辽宁经济,http://113.233.139.205:3153/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁都市,http://113.233.139.205:3153/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://113.233.139.205:3153/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育,http://113.233.139.205:3153/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视,http://113.233.139.205:3153/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://113.233.139.205:3153/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+沈阳新闻综合,http://113.233.139.205:3153/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://113.233.139.205:3153/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://113.233.139.205:3153/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://113.233.139.205:3153/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://113.233.139.205:3153/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://113.233.139.205:3153/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://113.233.139.205:3153/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://113.233.139.205:3153/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://113.233.139.205:3153/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育4,http://113.233.139.205:3153/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://113.233.139.205:3153/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://113.233.139.205:3153/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育,http://113.233.139.205:3153/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 
+来自辽宁联通的酒店源(113.233.139.205:3153)共有102个频道：
+广西卫视,http://113.233.139.205:3153/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://113.233.139.205:3153/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://113.233.139.205:3153/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://113.233.139.205:3153/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://113.233.139.205:3153/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://113.233.139.205:3153/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://113.233.139.205:3153/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://113.233.139.205:3153/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://113.233.139.205:3153/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://113.233.139.205:3153/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://113.233.139.205:3153/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://113.233.139.205:3153/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://113.233.139.205:3153/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://113.233.139.205:3153/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://113.233.139.205:3153/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://113.233.139.205:3153/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+山东教育,http://113.233.139.205:3153/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://113.233.139.205:3153/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://113.233.139.205:3153/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://113.233.139.205:3153/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+来自辽宁联通的酒店源(113.233.139.205:3153)共有102个频道：
+兵团卫视,http://113.233.139.205:3153/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://113.233.139.205:3153/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+延边卫视,http://113.233.139.205:3153/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育4,http://113.233.139.205:3153/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://113.233.139.205:3153/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动漫,http://113.233.139.205:3153/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+风尚购物,http://113.233.139.205:3153/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+聚鲨环球精选,http://113.233.139.205:3153/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+家有购物,http://113.233.139.205:3153/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+央广购物,http://113.233.139.205:3153/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+好享购物,http://113.233.139.205:3153/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+发现之旅,http://113.233.139.205:3153/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+环球奇观,http://113.233.139.205:3153/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+家庭理财,http://113.233.139.205:3153/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+金色学堂,http://113.233.139.205:3153/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+老故事,http://113.233.139.205:3153/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+农林卫视,http://113.233.139.205:3153/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+书画,http://113.233.139.205:3153/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+新动漫,http://113.233.139.205:3153/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+BRTV纪实科教,http://113.233.139.205:3153/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+来自辽宁联通的酒店源(113.233.139.205:3153)共有102个频道：
+新闻综合,http://113.233.139.205:3153/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+影视生活,http://113.233.139.205:3153/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+国学,http://113.233.139.205:3153/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+四海钓鱼,http://113.233.139.205:3153/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+中视购物,http://113.233.139.205:3153/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+时尚购物,http://113.233.139.205:3153/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+证券服务,http://113.233.139.205:3153/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+财富天下,http://113.233.139.205:3153/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+环球旅游,http://113.233.139.205:3153/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+汽摩,http://113.233.139.205:3153/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+茶,http://113.233.139.205:3153/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+车迷,http://113.233.139.205:3153/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+优购物,http://113.233.139.205:3153/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+早期教育,http://113.233.139.205:3153/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+都市剧场,http://113.233.139.205:3153/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐购物,http://113.233.139.205:3153/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+乐游,http://113.233.139.205:3153/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+法制天地,http://113.233.139.205:3153/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+中华特产,http://113.233.139.205:3153/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+女性时尚,http://113.233.139.205:3153/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+来自辽宁联通的酒店源(113.233.139.205:3153)共有102个频道：
+生态环境,http://113.233.139.205:3153/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+收藏天下,http://113.233.139.205:3153/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+家家购物,http://113.233.139.205:3153/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+生活时尚,http://113.233.139.205:3153/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 
 █████████████████████████████████████████████
 📺郑州联通酒店,#genre#
@@ -80,7 +191,7 @@ CCTV-5＋高清,http://123.14.91.38:9003/hls/18/index.m3u8
 
 
 █████████████████████████████████████████████
-📺测试频道test2,#genre#
+📺jackgao代理,#genre#
 █████████████████████████████████████████████
 CCTV-1综合,http://jackgao.top:35455/gptv/G_CCTV-1-HQ.m3u8
 CCTV-2财经,http://jackgao.top:35455/gptv/G_CCTV-2-HQ.m3u8
@@ -139,7 +250,7 @@ CCTV-5+体育赛事,http://jackgao.top:35455/gptv/G_CCTV-5PLUS-HQ.m3u8
 嘉佳卡通,http://jackgao.top:35455/gptv/G_JIAJIA.m3u8
 金鹰卡通,http://jackgao.top:35455/gptv/G_JINYING.m3u8
 █████████████████████████████████████████████
-📺测试频道test,#genre#
+📺freetv咪咕,#genre#
 █████████████████████████████████████████████
 CCTV-1,http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33#https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344#http://ms.fxim.net:808/hls/1/index.m3u8
 CCTV-2,http://www.freetv.top/migu/631780532.m3u8?migutoken=d69d5e5f850768f4609f5e7c6f63984da2c614f71e21226d8dea3a6e40d20f871ca2d383cd042bac96e3e8178933a15192f0ffaef2e700eb95de835faecc0bb802bd0c50099bf3d1abe4ea5174#https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250#http://ms.fxim.net:808/hls/2/index.m3u8
@@ -334,7 +445,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv#https://cdn.iptv8k.top
 重庆卫视,http://ygbh.site/php/bfgd.php?id=107#http://sh.lnott.top:880/dx46.m3u8
 
 █████████████████████████████████████████████
-📺海南三亚崖州,#genre#
+📺海口联通酒店,#genre#
 █████████████████████████████████████████████
 CCTV1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -380,7 +491,7 @@ CCTV15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&a
 重庆卫视,http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
 █████████████████████████████████████████████
-📺山西电信酒店,#genre#
+📺太原电信酒店,#genre#
 █████████████████████████████████████████████
 来自山西电信的酒店源(110.178.210.209:9003)共有50个频道：
 CCTV1,http://110.178.210.209:9003/hls/1/index.m3u8
@@ -436,7 +547,7 @@ CCTV17,http://110.178.210.209:9003/hls/18/index.m3u8
 浙江卫视,http://110.178.210.209:9003/hls/49/index.m3u8
 兵团卫视,http://110.178.210.209:9003/hls/50/index.m3u8
 █████████████████████████████████████████████
-📺宁夏联通酒店,#genre#
+📺中卫联通酒店,#genre#
 █████████████████████████████████████████████
 来自宁夏联通的酒店源(42.63.195.49:8089)共有52个频道：
 CCTV1高清,http://42.63.195.49:8089/hls/1/index.m3u8
@@ -549,7 +660,7 @@ CCTV5高清,http://42.63.195.54:8089/hls/17/index.m3u8
 台球,http://42.63.195.54:8089/hls/119/index.m3u8
 兵团卫视,http://42.63.195.54:8089/hls/120/index.m3u8
 █████████████████████████████████████████████
-📺湖北移通酒店,#genre#
+📺十堰移通酒店,#genre#
 █████████████████████████████████████████████
 来自湖北移通的酒店源(120.202.94.181:9446)共有26个频道：
 CCTV1-综合,http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -580,7 +691,7 @@ CCTV15-音乐,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&play
 广东卫视,http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://120.202.94.181:9446/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 █████████████████████████████████████████████
-📺测试频道,#genre#
+📺ottiptv,#genre#
 █████████████████████████████████████████████
  CCTV1综合,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=abf5d4482ab78fc8f2828cbe8d4ab578a2c8dc44a50e25f866177a7ae92362c0229619827d67b5f9ccb83e48436377965bcf2430016c88a191ec650e80e75443788ccd823934bea8c6be302684
  CCTV2财经,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=5361411c244460b356d312d971ec9b115b121fe5daab539540b14fa420d545e2842050d9980d1d250d8e18d6f915b860b5688ddc7bc3816857819b9da7e54aa063f0108385cafcd7a33dff11fe
@@ -679,7 +790,7 @@ CCTV15-音乐,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&play
  CETV2,https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=604cf6b76a08fb84653f4269840e2df1434712fd24ba3c9dddb69dba11ca7dc128601d988a9d730d46577a7e1423bbc4cc477f4ef0ed03668f2b6fb626a1ef3f997ddb465435494be3d6ad0ea2
  CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=afe06512e277282704514eaf90f9ed2e1e4bb79a1ce87acd42bb7a6f1fad6f40871da12a95184e1fc6a7fdf2ceda71c929aa280d6a0727f498923c0b388181c43563fd33e9520e789120368e15
 █████████████████████████████████████████████
-📺港台电视,#genre#
+📺an94tv,#genre#
 █████████████████████████████████████████████
 8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 Animax(HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
@@ -731,7 +842,9 @@ TVB星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 朝鲜恩情台,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
 民視第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 日テレNEWSLIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+█████████████████████████████████████████████
+📺mytv666,#genre#
+█████████████████████████████████████████████
 TVBS,http://api.mytv666.top/api/hk.php?id=3530393233353135316139356235363965653137653863353561653864336263267469643d77696e74763132332669643d3730
 TVBS欢乐台,http://api.mytv666.top/api/hk.php?id=3762336166623866323763356361653833376266313161666333646136363637267469643d74762669643d313538
 TVBS欢乐台,http://api.mytv666.top/api/hk.php?id=6236616334353366303862316264353063653232626338383639306330623231267469643d77696e74763132332669643d3731
@@ -803,8 +916,9 @@ TVBS新闻台,http://api.mytv666.top/api/hk.php?id=63663662323130666235646537343
 中天新闻台,http://api.mytv666.top/api/hk.php?id=3862366539313935356333316130363734623834353962623032616433353263267469643d77696e74763132332669643d3433
 中天亚洲台,http://api.mytv666.top/api/hk.php?id=6230353962323532613838363830373564306164326137336138366430623435267469643d77696e74763132332669643d3738
 猪哥亮歌厅秀,http://api.mytv666.top/api/hk.php?id=6334366330373732363432326261363432663630353664313131336133336535267469643d74762669643d313738
-
-*****************************************************************************************************************************************************************************
+█████████████████████████████████████████████
+📺douyin,#genre#
+█████████████████████████████████████████████
 FTV综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mszyt.flv
 东森LIVE,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dsxw.flv
 东森财经新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dscjxw.flv
@@ -815,7 +929,6 @@ FTV综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mszyt.flv
 中天亚洲台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztyzt.flv
 Now星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.flv
 viuTV6,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_viutv6.flv
-
 中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 TVBS,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbs.flv
@@ -831,16 +944,13 @@ V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ms.flv
 民视第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msdyt.flv
 民视台湾台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mstwt.flv
-
 民视新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msxwt.flv
 三立综合台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-slzh.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
 民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ms.flv
-
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyz.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw1.flv
 中天娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyl.flv
-
 
 █████████████████████████████████████████████
 📻国家电台,#genre#
@@ -1849,6 +1959,7 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 周杰伦精选120首(8小时),https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 周深精选72首(5小时),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 庄心妍精选44首(2小时),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
+
 
 
 
