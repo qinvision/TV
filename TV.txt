@@ -424,7 +424,7 @@ CCTV15-音乐,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&play
  CETV2,https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=604cf6b76a08fb84653f4269840e2df1434712fd24ba3c9dddb69dba11ca7dc128601d988a9d730d46577a7e1423bbc4cc477f4ef0ed03668f2b6fb626a1ef3f997ddb465435494be3d6ad0ea2
  CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=afe06512e277282704514eaf90f9ed2e1e4bb79a1ce87acd42bb7a6f1fad6f40871da12a95184e1fc6a7fdf2ceda71c929aa280d6a0727f498923c0b388181c43563fd33e9520e789120368e15
 █████████████████████████████████████████████
-📺an94tv,#genre#
+📺港台电视,#genre#
 █████████████████████████████████████████████
 8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 Animax(HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
@@ -1592,6 +1592,7 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 周杰伦精选120首(8小时),https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 周深精选72首(5小时),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 庄心妍精选44首(2小时),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
+
 
 
 
