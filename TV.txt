@@ -18,9 +18,41 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/m
 
 
 █████████████████████████████████████████████
-📺太原联通,#genre#
+📺武汉电信,#genre#
 █████████████████████████████████████████████
-
+来自湖北电信的酒店源(171.83.115.193:85)共有32个频道：
+CCTV1-综合,http://171.83.115.193:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://171.83.115.193:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://171.83.115.193:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://171.83.115.193:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://171.83.115.193:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://171.83.115.193:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://171.83.115.193:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://171.83.115.193:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://171.83.115.193:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://171.83.115.193:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://171.83.115.193:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://171.83.115.193:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://171.83.115.193:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://171.83.115.193:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://171.83.115.193:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://171.83.115.193:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://171.83.115.193:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://171.83.115.193:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://171.83.115.193:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://171.83.115.193:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://171.83.115.193:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://171.83.115.193:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://171.83.115.193:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://171.83.115.193:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://171.83.115.193:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://171.83.115.193:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://171.83.115.193:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://171.83.115.193:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://171.83.115.193:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://171.83.115.193:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://171.83.115.193:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://171.83.115.193:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 █████████████████████████████████████████████
 📺十堰移通,#genre#
 █████████████████████████████████████████████
@@ -1012,6 +1044,7 @@ CGTN-BST,http://116.30.250.20:12345/bst/cctvnews@2500000.m3u8
 浙江舟山嵊泗县中心渔港,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 重庆渝中李子坝,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+
 
 
 
