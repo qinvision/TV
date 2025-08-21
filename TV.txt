@@ -12,52 +12,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/m
 
 
 
-█████████████████████████████████████████████
-📺漯河电信,#genre#
-█████████████████████████████████████████████
-来自河南电信的酒店源(123.160.20.232:85)共有40个频道：
-CCTV1-综合,http://123.160.20.232:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://123.160.20.232:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://123.160.20.232:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://123.160.20.232:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://123.160.20.232:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育,http://123.160.20.232:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://123.160.20.232:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://123.160.20.232:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://123.160.20.232:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://123.160.20.232:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://123.160.20.232:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11-戏曲,http://123.160.20.232:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://123.160.20.232:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://123.160.20.232:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://123.160.20.232:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音乐,http://123.160.20.232:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://123.160.20.232:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南都市频道,http://123.160.20.232:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-河南民生频道,http://123.160.20.232:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-来自河南电信的酒店源(123.160.20.232:85)共有40个频道：
-河南法制频道,http://123.160.20.232:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-河南电视剧频道,http://123.160.20.232:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-河南新闻频道,http://123.160.20.232:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-河南公共频道,http://123.160.20.232:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-梨园频道,http://123.160.20.232:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视高清,http://123.160.20.232:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视高清,http://123.160.20.232:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视高清,http://123.160.20.232:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视高清,http://123.160.20.232:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视高清,http://123.160.20.232:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视高清,http://123.160.20.232:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视高清,http://123.160.20.232:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://123.160.20.232:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://123.160.20.232:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://123.160.20.232:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://123.160.20.232:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://123.160.20.232:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://123.160.20.232:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-福建东南,http://123.160.20.232:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-来自河南电信的酒店源(123.160.20.232:85)共有40个频道：
-陕西卫视,http://123.160.20.232:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://123.160.20.232:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 █████████████████████████████████████████████
 📺上海电信组播,#genre#
@@ -1286,6 +1240,7 @@ CGTN-BST,http://116.30.250.20:12345/bst/cctvnews@2500000.m3u8
 浙江舟山嵊泗县中心渔港,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 重庆渝中李子坝,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+
 
 
 
