@@ -11,8 +11,42 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/m
 
 
 
-
-
+█████████████████████████████████████████████
+📺長沙電信,#genre#
+█████████████████████████████████████████████
+來自湖南電信的酒店源(175.9.35.120:8088)共有32個頻道：
+CCTV1-綜合,http://175.9.35.120:8088/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-財經,http://175.9.35.120:8088/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-綜藝,http://175.9.35.120:8088/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-國際,http://175.9.35.120:8088/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-體育,http://175.9.35.120:8088/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-電影,http://175.9.35.120:8088/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-軍農,http://175.9.35.120:8088/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-電視劇,http://175.9.35.120:8088/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-紀錄,http://175.9.35.120:8088/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://175.9.35.120:8088/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戲曲,http://175.9.35.120:8088/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社會與法,http://175.9.35.120:8088/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新聞,http://175.9.35.120:8088/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少兒,http://175.9.35.120:8088/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音樂,http://175.9.35.120:8088/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視高清,http://175.9.35.120:8088/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市高清,http://175.9.35.120:8088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娛樂高清,http://175.9.35.120:8088/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南金鷹卡通高清,http://175.9.35.120:8088/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+江蘇衛視高清,http://175.9.35.120:8088/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江衛視,http://175.9.35.120:8088/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽衛視高清,http://175.9.35.120:8088/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+北京衛視高清,http://175.9.35.120:8088/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+東方衛視高清,http://175.9.35.120:8088/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+江西衛視高清,http://175.9.35.120:8088/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳衛視高清,http://175.9.35.120:8088/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+遼寧衛視高清,http://175.9.35.120:8088/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+東南衛視高清,http://175.9.35.120:8088/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東衛視高清,http://175.9.35.120:8088/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+山東衛視高清,http://175.9.35.120:8088/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+貴州衛視高清,http://175.9.35.120:8088/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+IPTV體育高清,http://175.9.35.120:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 █████████████████████████████████████████████
 📺上海電信組播,#genre#
 █████████████████████████████████████████████
@@ -1198,6 +1232,7 @@ CGTN-BST,http://116.30.250.20:12345/bst/cctvnews@2500000.m3u8
 浙江舟山嵊泗縣中心漁港,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 重慶渝中李子壩,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+
 
 
 
