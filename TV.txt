@@ -1052,6 +1052,31 @@ CGTN-BST,http://116.30.250.20:12345/bst/cctvnews@2500000.m3u8
 咪視通-43,http://116.30.250.20:12345/itv/3000000010000025380.m3u8?cdn=FifastbLive
 咪視通-44,http://116.30.250.20:12345/itv/3000000010000027691.m3u8?cdn=FifastbLive
 █████████████████████████████████████████████
+📺熊貓頻道,#genre#
+█████████████████████████████████████████████
+24小時高清成都大熊貓繁育研究基地,https://hdgcwbcdali.v.myalicdn.com/hdgcwbcd/cdrmipanda_1/index.m3u8
+24小時高清中國大熊貓保護研究中心,https://hdgcwbcdali.v.myalicdn.com/hdgcwbcd/cdrmipanda1000_1/index.m3u8
+成年園A,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao01_2/index.m3u8
+成年園B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao02_2/index.m3u8
+春野、秋野,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao20_2/index.m3u8
+春雨、吉福A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao11_2/index.m3u8
+春雨、吉福B,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao18_2/index.m3u8
+恩恩,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao13_2/index.m3u8
+江蘇大豐麋鹿國家級自然保護區,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao23_2/index.m3u8
+六號別墅A,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao03_2/index.m3u8
+六號別墅B,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2/index.m3u8
+母子園A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao07_2/index.m3u8
+母子園B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao08_2/index.m3u8
+牧野,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao15_2/index.m3u8
+瑞喜、喬怡A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao12_2/index.m3u8
+瑞喜、喬怡B,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao16_2/index.m3u8
+蘇琳,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao14_2/index.m3u8
+一號別墅A,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao09_2/index.m3u8
+一號別墅B,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao10_2/index.m3u8
+幼兒園A,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao05_2/index.m3u8
+幼兒園B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao06_2/index.m3u8
+雲南白馬雪山自然保護區,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao24_2/index.m3u8
+█████████████████████████████████████████████
 📺地方頻道,#genre#
 █████████████████████████████████████████████
 蒼南新聞綜合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
@@ -1194,3 +1219,4 @@ CGTN-BST,http://116.30.250.20:12345/bst/cctvnews@2500000.m3u8
 浙江舟山嵊泗縣中心漁港,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 重慶渝中李子壩,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+
