@@ -3,7 +3,50 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/m
 
 
 
-
+█████████████████████████████████████████████
+📺太原聯通,#genre#
+█████████████████████████████████████████████
+來自山西聯通的酒店源(171.118.233.19:9999)共有40個頻道：
+CCTV1-綜合,http://171.118.233.19:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-財經,http://171.118.233.19:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-綜藝,http://171.118.233.19:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-國際,http://171.118.233.19:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-體育,http://171.118.233.19:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-電影,http://171.118.233.19:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-軍農,http://171.118.233.19:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-電視劇,http://171.118.233.19:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-紀錄,http://171.118.233.19:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://171.118.233.19:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戲曲,http://171.118.233.19:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社會與法,http://171.118.233.19:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新聞,http://171.118.233.19:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少兒,http://171.118.233.19:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音樂,http://171.118.233.19:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+山西衛視,http://171.118.233.19:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南衛視,http://171.118.233.19:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江衛視,http://171.118.233.19:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+廣東衛視,http://171.118.233.19:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳衛視,http://171.118.233.19:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+天津衛視,http://171.118.233.19:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+山東衛視,http://171.118.233.19:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+重慶衛視,http://171.118.233.19:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+金鷹卡通,http://171.118.233.19:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北衛視,http://171.118.233.19:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龍江衛視,http://171.118.233.19:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+遼寧衛視,http://171.118.233.19:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+上海衛視,http://171.118.233.19:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+江蘇衛視,http://171.118.233.19:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+北京衛視,http://171.118.233.19:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+四川衛視,http://171.118.233.19:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+河南衛視,http://171.118.233.19:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+貴州衛視,http://171.118.233.19:9999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+東南衛視,http://171.118.233.19:9999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+廣西衛視,http://171.118.233.19:9999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+江西衛視,http://171.118.233.19:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林衛視,http://171.118.233.19:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+青海衛視,http://171.118.233.19:9999/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽衛視,http://171.118.233.19:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+陝西衛視,http://171.118.233.19:9999/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 
 █████████████████████████████████████████████
 📺香港腾讯,#genre#
@@ -881,6 +924,7 @@ SHE精選40首(2小時),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 周深精選72首(5小時),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 莊心妍精選44首(2小時),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
 卓依婷40首經典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5252041701152345508_hlsb.m3u8
+
 
 
 
