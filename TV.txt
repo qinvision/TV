@@ -917,11 +917,11 @@ CNR17哈薩克語廣播,https://satellitepull.cnr.cn/live/wxhygb/playlist.m3u8
 太谷新聞綜合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 通海電視臺,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 渭源新聞,https://play.kankanlive.com/live/1711955176432990.m3u8
-無錫都市頻道,https://stream.thmz.com/wxtv6/playlist.m3u8
+無錫影視頻道,https://stream.thmz.com/wxtv6/playlist.m3u8
 無錫經濟頻道,https://stream.thmz.com/wxtv5/playlist.m3u8
 無錫生活頻道,https://stream.thmz.com/wxtv4/playlist.m3u8
 無錫新聞綜合頻道,https://stream.thmz.com/wxtv1/playlist.m3u8
-無錫影視頻道,https://stream.thmz.com/wxtv3/playlist.m3u8
+無錫都市資訊頻道,https://stream.thmz.com/wxtv3/playlist.m3u8
 無錫娛樂頻道,https://stream.thmz.com/wxtv2/playlist.m3u8
 五臺綜合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 武威新聞,https://play.kankanlive.com/live/1693539781636986.m3u8
@@ -1146,6 +1146,7 @@ SHE精選40首(2小時),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 周深精選72首(5小時),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 莊心妍精選44首(2小時),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
 卓依婷40首經典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5252041701152345508_hlsb.m3u8
+
 
 
 
