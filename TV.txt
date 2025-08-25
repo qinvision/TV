@@ -881,6 +881,7 @@ CNR17哈薩克語廣播,https://satellitepull.cnr.cn/live/wxhygb/playlist.m3u8
 📺官方直播源,#genre#
 █████████████████████████████████████████████
 蒼南新聞綜合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+長子綜合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 朝天綜合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 東莞生活資訊,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 東莞新聞綜合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
@@ -894,13 +895,14 @@ CNR17哈薩克語廣播,https://satellitepull.cnr.cn/live/wxhygb/playlist.m3u8
 廣元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 廣元綜合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 桂林新聞,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
 湖州文化娛樂,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 湖州新聞綜合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-懷仁綜合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 淮陰綜合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+懷仁綜合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 劍閣綜合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-龍游生活娛樂,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龍游新聞綜合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龍遊生活娛樂,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+龍遊新聞綜合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 隴川綜合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 洛陽科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 洛陽文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
@@ -915,26 +917,28 @@ CNR17哈薩克語廣播,https://satellitepull.cnr.cn/live/wxhygb/playlist.m3u8
 太谷新聞綜合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 通海電視臺,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 渭源新聞,https://play.kankanlive.com/live/1711955176432990.m3u8
-無錫經濟,https://stream.thmz.com/wxtv5/playlist.m3u8
-無錫生活,https://stream.thmz.com/wxtv4/playlist.m3u8
-無錫娛樂,https://stream.thmz.com/wxtv2/playlist.m3u8
+無錫都市頻道,https://stream.thmz.com/wxtv6/playlist.m3u8
+無錫經濟頻道,https://stream.thmz.com/wxtv5/playlist.m3u8
+無錫生活頻道,https://stream.thmz.com/wxtv4/playlist.m3u8
+無錫新聞綜合頻道,https://stream.thmz.com/wxtv1/playlist.m3u8
+無錫影視頻道,https://stream.thmz.com/wxtv3/playlist.m3u8
+無錫娛樂頻道,https://stream.thmz.com/wxtv2/playlist.m3u8
 五臺綜合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 武威新聞,https://play.kankanlive.com/live/1693539781636986.m3u8
 西寧生活服務,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-西寧新聞綜合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 西寧新聞綜合,http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
+西寧新聞綜合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 蕭山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 蕭山新聞綜合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 新昌新聞綜合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-滎經綜合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 易門綜合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+滎經綜合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 永昌綜合,https://play.kankanlive.com/live/1652755738635915.m3u8
 餘姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 餘姚綜合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 雲霄綜合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
-長子綜合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 諸暨新聞綜合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
+
 
 *******************
 浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -1142,6 +1146,7 @@ SHE精選40首(2小時),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 周深精選72首(5小時),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 莊心妍精選44首(2小時),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
 卓依婷40首經典歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5252041701152345508_hlsb.m3u8
+
 
 
 
