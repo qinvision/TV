@@ -1,108 +1,5 @@
 https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-复仇逮捕令正片,https://vodcnd14.myqqdd.com/20250830/omWhhweS/index.m3u8
-霹雳神鹰正片,https://vodcnd13.myqqdd.com/20250829/7lm2XSkp/index.m3u8
-谁是超级英雄正片,https://vodcnd13.myqqdd.com/20250829/jE8FWLvG/index.m3u8
-怒火12小时正片,https://vodcnd13.myqqdd.com/20250829/VaLAOnqA/index.m3u8
-敌人 2025正片,https://vodcnd14.myqqdd.com/20250829/z8Ixi6IX/index.m3u8
-乱战正片,https://vodcnd13.myqqdd.com/20250828/wqBqgB4s/index.m3u8
-卫兵 2024正片,https://vodcnd07.myqqdd.com/20250828/dqz9rpOF/index.m3u8
-弹无虚发正片,https://vodcnd07.myqqdd.com/20250828/4JTQkili/index.m3u8
-玩家 2025正片,https://vodcnd09.myqqdd.com/20250828/5y0N8si3/index.m3u8
-德黑兰 2025正片,https://vodcnd09.myqqdd.com/20250828/7613mmjR/index.m3u8
-猎杀红色十月正片,https://vodcnd13.myqqdd.com/20250828/VAYnahd4/index.m3u8
-O记三合会档案(普通话版)正片,https://vodcnd08.myqqdd.com/20250828/hNkOR8Di/index.m3u8
-脂粉双雄正片,https://vodcnd08.myqqdd.com/20250828/SDP4knpq/index.m3u8
-决战洛城正片,https://vodcnd03.myqqdd.com/20250828/4ieJsxih/index.m3u8
-一刀倾城正片,https://vodcnd08.myqqdd.com/20250828/y0vftVdU/index.m3u8
-杀出个黎明正片,https://vodcnd14.myqqdd.com/20250828/YD43VV7N/index.m3u8
-中南海保镖正片,https://vodcnd08.myqqdd.com/20250828/7V2JrDoE/index.m3u8
-中国龙正片,https://vodcnd08.myqqdd.com/20250828/EAZ9Icrt/index.m3u8
-血案疑踪正片,https://vodcnd14.myqqdd.com/20250828/X2lsJ1xV/index.m3u8
-幸运的人正片,https://vodcnd07.myqqdd.com/20250828/NQb1Kiw0/index.m3u8
-老九门之青山海棠正片,https://vodcnd13.myqqdd.com/20250827/hr0jkEMx/index.m3u8
-新逃学威龙：卧底高校正片,https://vodcnd07.myqqdd.com/20250828/VlWgcjpn/index.m3u8
-螺丝钉密茨凯维奇2正片,https://vodcnd14.myqqdd.com/20250827/YLIIfMuk/index.m3u8
-徐老虎与白寡妇正片,https://vodcnd07.myqqdd.com/20250828/DwLyc8uw/index.m3u8
-神偷燕子李三正片,https://vodcnd07.myqqdd.com/20250828/5GrrntVr/index.m3u8
-东方不败之风云再起（粤语版）正片,https://vodcnd13.myqqdd.com/20250828/HnsA4CPl/index.m3u8
-旺角黑夜 粤语版正片,https://vodcnd13.myqqdd.com/20250828/vpL9lJ3d/index.m3u8
-最佳贼拍档正片,https://vodcnd08.myqqdd.com/20250827/QReOT3Xd/index.m3u8
-终极危情（国语版）正片,https://vodcnd08.myqqdd.com/20250827/0HDXECO7/index.m3u8
-至尊一剑正片,https://vodcnd08.myqqdd.com/20250827/l6Z6ao8x/index.m3u8
-影子敌人（国语版）正片,https://vodcnd08.myqqdd.com/20250827/ElczTxwX/index.m3u8
-万道剑尊之逆天而行正片,https://vodcnd08.myqqdd.com/20250827/UuIhQsQW/index.m3u8
-水晶人正片,https://vodcnd08.myqqdd.com/20250827/lTGfuA2g/index.m3u8
-日劫正片,https://vodcnd09.myqqdd.com/20250827/rN2Tqw5N/index.m3u8
-三闯少林正片,https://vodcnd08.myqqdd.com/20250827/3uU0y5yY/index.m3u8
-情人看刀正片,https://vodcnd08.myqqdd.com/20250827/cXKHlKoS/index.m3u8
-查理·布朗这是一次冒险正片,https://vodcnd09.myqqdd.com/20250827/wLda4ai2/index.m3u8
-蠢蛋搞怪秀3.5正片,https://vodcnd03.myqqdd.com/20250826/EFEY6uUd/index.m3u8
-南北狮王（国语版）正片,https://vodcnd08.myqqdd.com/20250827/D3tnfty6/index.m3u8
-龙虎少爷正片,https://vodcnd08.myqqdd.com/20250827/UGMgQmux/index.m3u8
-了不起的约翰森：处处犯错正片,https://vodcnd14.myqqdd.com/20250826/ezH5qU0f/index.m3u8
-双球正片,https://vodcnd14.myqqdd.com/20250826/yhXS2aZE/index.m3u8
-黄飞鸿之二：男儿当自强正片,https://vodcnd07.myqqdd.com/20250825/KV3khjZK/index.m3u8
-奇趣马戏团：吸血鬼的助手正片,https://vodcnd09.myqqdd.com/20250825/Ld7OVB5r/index.m3u8
-杰森博士正片,https://vodcnd09.myqqdd.com/20250824/gZmfGwvH/index.m3u8
-爱尔兰正片,https://vodcnd09.myqqdd.com/20250824/oqpJhbnj/index.m3u8
-卡比尔·阿扎比：因西和金妮正片,https://vodcnd14.myqqdd.com/20250824/COwn8Pq6/index.m3u8
-掩护 Take Cover正片,https://vodcnd14.myqqdd.com/20250824/L7dconXT/index.m3u8
-蜘蛛侠英雄无归正片,https://vodcnd14.myqqdd.com/20250823/HXOqmWl9/index.m3u8
-宇宙狙击正片,https://vodcnd07.myqqdd.com/20250824/cmlfWEFF/index.m3u8
-高度戒备正片,https://vodcnd09.myqqdd.com/20250824/pgvI6rHj/index.m3u8
-无味神探（粤语版）正片,https://vodcnd07.myqqdd.com/20250824/vDXqehm5/index.m3u8
-布局正片,https://vodcnd08.myqqdd.com/20250823/X9UwQYWR/index.m3u8
-大冲撞正片,https://vodcnd08.myqqdd.com/20250823/9Po8Y9XX/index.m3u8
-庙街公主正片,https://vodcnd07.myqqdd.com/20250823/CHdUqrko/index.m3u8
-深空失忆正片,https://vodcnd14.myqqdd.com/20250823/xKU77I9i/index.m3u8
-笑傲江湖 1990正片,https://vodcnd07.myqqdd.com/20250823/gn2cnpdE/index.m3u8
-决战枭雄正片,https://vodcnd07.myqqdd.com/20250823/lCLdVP1e/index.m3u8
-英雄喋血正片,https://vodcnd07.myqqdd.com/20250823/8WoAuuwR/index.m3u8
-枪王 (普通话版)正片,https://vodcnd07.myqqdd.com/20250823/aglVVHLl/index.m3u8
-好胆别走正片,https://vodcnd09.myqqdd.com/20250823/LXyyb1Aa/index.m3u8
-古墓丽影2正片,https://vodcnd14.myqqdd.com/20250823/yp3CzkkY/index.m3u8
-古墓丽影正片,https://vodcnd14.myqqdd.com/20250823/GebAK1Hm/index.m3u8
-纽约大逃亡正片,https://vodcnd14.myqqdd.com/20250823/GQuAleSm/index.m3u8
-狙击职业杀手正片,https://vodcnd14.myqqdd.com/20250823/bXFqBVFp/index.m3u8
-街头霸王2正片,https://vodcnd14.myqqdd.com/20250823/t9zYaVGJ/index.m3u8
-木乃伊 1999正片,https://vodcnd09.myqqdd.com/20250821/kTjchGNJ/index.m3u8
-母子威龙正片,https://vodcnd09.myqqdd.com/20250821/lJZspQtG/index.m3u8
-怒海威龙正片,https://vodcnd07.myqqdd.com/20250821/6ijXExvw/index.m3u8
-木棉袈裟正片,https://vodcnd07.myqqdd.com/20250821/Enez8gbI/index.m3u8
-武馆正片,https://vodcnd08.myqqdd.com/20250821/FWcprtDA/index.m3u8
-生死危机正片,https://vodcnd08.myqqdd.com/20250821/TVCZWXAB/index.m3u8
-恶童正片,https://vodcnd07.myqqdd.com/20250820/fkiEJHGm/index.m3u8
-抗癌正片,https://vodcnd07.myqqdd.com/20250820/yI39kMR9/index.m3u8
-乐高大师 Jr.正片,https://vodcnd07.myqqdd.com/20250820/GtP1ARo1/index.m3u8
-伦敦真正的家庭主妇正片,https://vodcnd09.myqqdd.com/20250819/4Zffv1mX/index.m3u8
-沉默法则正片,https://vodcnd09.myqqdd.com/20250819/4xeCiH0m/index.m3u8
-忍者蝙蝠侠大战极道联盟正片,https://vodcnd09.myqqdd.com/20250819/Hob23VlN/index.m3u8
-饥饿游戏2：星火燎原正片,https://vodcnd09.myqqdd.com/20250819/FJ02yCMd/index.m3u8
-惊天营救2正片,https://vodcnd09.myqqdd.com/20250819/7OTqdKls/index.m3u8
-妖魔大闹唐人街正片,https://vodcnd09.myqqdd.com/20250819/X8cFXScz/index.m3u8
-小人物2抢先版,https://vodcnd14.myqqdd.com/20250819/OIavpLCd/index.m3u8
-杀戮湾正片,https://vodcnd07.myqqdd.com/20250818/wkIxOnIE/index.m3u8
-矿工的儿子正片,https://vodcnd07.myqqdd.com/20250818/b5sCCuKy/index.m3u8
-寄宿学校谋杀疑云正片,https://vodcnd07.myqqdd.com/20250818/37zeCoNC/index.m3u8
-碟中谍8：最终清算正片,https://vodcnd14.myqqdd.com/20250818/qpmHCtir/index.m3u8
-时光遗忘之地正片,https://vodcnd07.myqqdd.com/20250817/62Lv2a0P/index.m3u8
-极道追杀令正片,https://vodcnd07.myqqdd.com/20250817/nhBPCnIR/index.m3u8
-宙斯之子：赫拉克勒斯正片,https://vodcnd07.myqqdd.com/20250817/w3P8DW4u/index.m3u8
-城市巨藤正片,https://vodcnd09.myqqdd.com/20250816/By1bw9Tj/index.m3u8
-萨马纳正片,https://vodcnd09.myqqdd.com/20250816/sHT2hSvW/index.m3u8
-深渊之眼正片,https://vodcnd14.myqqdd.com/20250815/YA3XArkL/index.m3u8
-欲火 2025正片,https://vodcnd14.myqqdd.com/20250815/IiNkcqUC/index.m3u8
-王者之心正片,https://vodcnd09.myqqdd.com/20250815/grncix34/index.m3u8
-破果正片,https://vodcnd14.myqqdd.com/20250815/Hb0s7zVZ/index.m3u8
-超人 2025正片,https://vodcnd14.myqqdd.com/20250815/ixMZy4EN/index.m3u8
-仲夏六日正片,https://vodcnd14.myqqdd.com/20250815/Oy6mIm7w/index.m3u8
-透明剑士正片,https://vodcnd14.myqqdd.com/20250815/PU7V2FzD/index.m3u8
-金童子正片,https://vodcnd14.myqqdd.com/20250815/kgrywxHG/index.m3u8
-月光诗篇正片,https://vodcnd09.myqqdd.com/20250814/0Yy0IlnH/index.m3u8
-
-
-
 
 
 
@@ -2357,6 +2254,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 黄金时代(2025)
 香港探秘地图(2025)
 执法者们(2025)
+
 
 
 
