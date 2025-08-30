@@ -1,65 +1,6 @@
 https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-了不起的约翰森：处处犯错正片	美国	动作片,https://vodcnd14.myqqdd.com/20250826/ezH5qU0f/index.m3u8
-双球正片	美国	动作片,https://vodcnd14.myqqdd.com/20250826/yhXS2aZE/index.m3u8
-黄飞鸿之二：男儿当自强正片	中国香港	动作片,https://vodcnd07.myqqdd.com/20250825/KV3khjZK/index.m3u8
-奇趣马戏团：吸血鬼的助手正片	美国	动作片,https://vodcnd09.myqqdd.com/20250825/Ld7OVB5r/index.m3u8
-杰森博士正片	美国,德国,希腊	动作片,https://vodcnd09.myqqdd.com/20250824/gZmfGwvH/index.m3u8
-爱尔兰正片	美国,爱尔兰	动作片,https://vodcnd09.myqqdd.com/20250824/oqpJhbnj/index.m3u8
-卡比尔·阿扎比：因西和金妮正片	土耳其	动作片,https://vodcnd14.myqqdd.com/20250824/COwn8Pq6/index.m3u8
-掩护 Take Cover正片	美国	动作片,https://vodcnd14.myqqdd.com/20250824/L7dconXT/index.m3u8
-蜘蛛侠英雄无归正片	美国	动作片,https://vodcnd14.myqqdd.com/20250823/HXOqmWl9/index.m3u8
-宇宙狙击正片	中国香港,菲律宾	动作片,https://vodcnd07.myqqdd.com/20250824/cmlfWEFF/index.m3u8
-高度戒备正片	中国香港	动作片,https://vodcnd09.myqqdd.com/20250824/pgvI6rHj/index.m3u8
-无味神探（粤语版）正片	中国香港	动作片,https://vodcnd07.myqqdd.com/20250824/vDXqehm5/index.m3u8
-布局正片	中国香港	动作片,https://vodcnd08.myqqdd.com/20250823/X9UwQYWR/index.m3u8
-大冲撞正片	中国大陆	动作片,https://vodcnd08.myqqdd.com/20250823/9Po8Y9XX/index.m3u8
-庙街公主正片	中国香港	动作片,https://vodcnd07.myqqdd.com/20250823/CHdUqrko/index.m3u8
-深空失忆正片	德国,英国,美国	动作片,https://vodcnd14.myqqdd.com/20250823/xKU77I9i/index.m3u8
-笑傲江湖 1990正片	中国香港,中国台湾	动作片,https://vodcnd07.myqqdd.com/20250823/gn2cnpdE/index.m3u8
-决战枭雄正片	中国大陆	动作片,https://vodcnd07.myqqdd.com/20250823/lCLdVP1e/index.m3u8
-英雄喋血正片	中国大陆	动作片,https://vodcnd07.myqqdd.com/20250823/8WoAuuwR/index.m3u8
-枪王 (普通话版)正片	中国香港	动作片,https://vodcnd07.myqqdd.com/20250823/aglVVHLl/index.m3u8
-好胆别走正片	美国	动作片,https://vodcnd09.myqqdd.com/20250823/LXyyb1Aa/index.m3u8
-古墓丽影2正片	美国,德国,日本,英国	动作片,https://vodcnd14.myqqdd.com/20250823/yp3CzkkY/index.m3u8
-古墓丽影正片	美国,英国,日本,德国	动作片,https://vodcnd14.myqqdd.com/20250823/GebAK1Hm/index.m3u8
-纽约大逃亡正片	英国,美国	动作片,https://vodcnd14.myqqdd.com/20250823/GQuAleSm/index.m3u8
-狙击职业杀手正片	美国,英国,法国,德国,日本	动作片,https://vodcnd14.myqqdd.com/20250823/bXFqBVFp/index.m3u8
-街头霸王2正片	日本	动作片,https://vodcnd14.myqqdd.com/20250823/t9zYaVGJ/index.m3u8
-木乃伊 1999正片	美国	动作片,https://vodcnd09.myqqdd.com/20250821/kTjchGNJ/index.m3u8
-母子威龙正片	美国	动作片,https://vodcnd09.myqqdd.com/20250821/lJZspQtG/index.m3u8
-怒海威龙正片	中国大陆,菲律宾	动作片,https://vodcnd07.myqqdd.com/20250821/6ijXExvw/index.m3u8
-木棉袈裟正片	中国大陆,中国香港	动作片,https://vodcnd07.myqqdd.com/20250821/Enez8gbI/index.m3u8
-武馆正片	中国香港	动作片,https://vodcnd08.myqqdd.com/20250821/FWcprtDA/index.m3u8
-生死危机正片	中国大陆	动作片,https://vodcnd08.myqqdd.com/20250821/TVCZWXAB/index.m3u8
-恶童正片	日本	动作片,https://vodcnd07.myqqdd.com/20250820/fkiEJHGm/index.m3u8
-抗癌正片	中国大陆	动作片,https://vodcnd07.myqqdd.com/20250820/yI39kMR9/index.m3u8
-乐高大师 Jr.正片	美国	动作片,https://vodcnd07.myqqdd.com/20250820/GtP1ARo1/index.m3u8
-伦敦真正的家庭主妇正片	英国	动作片,https://vodcnd09.myqqdd.com/20250819/4Zffv1mX/index.m3u8
-沉默法则正片	英国	动作片,https://vodcnd09.myqqdd.com/20250819/4xeCiH0m/index.m3u8
-忍者蝙蝠侠大战极道联盟正片	日本	动作片,https://vodcnd09.myqqdd.com/20250819/Hob23VlN/index.m3u8
-饥饿游戏2：星火燎原正片	美国	动作片,https://vodcnd09.myqqdd.com/20250819/FJ02yCMd/index.m3u8
-惊天营救2正片	美国	动作片,https://vodcnd09.myqqdd.com/20250819/7OTqdKls/index.m3u8
-妖魔大闹唐人街正片	美国	动作片,https://vodcnd09.myqqdd.com/20250819/X8cFXScz/index.m3u8
-小人物2抢先版	美国	动作片,https://vodcnd14.myqqdd.com/20250819/OIavpLCd/index.m3u8
-杀戮湾正片	美国	动作片,https://vodcnd07.myqqdd.com/20250818/wkIxOnIE/index.m3u8
-矿工的儿子正片	美国	动作片,https://vodcnd07.myqqdd.com/20250818/b5sCCuKy/index.m3u8
-寄宿学校谋杀疑云正片	美国	动作片,https://vodcnd07.myqqdd.com/20250818/37zeCoNC/index.m3u8
-碟中谍8：最终清算正片	美国	动作片,https://vodcnd14.myqqdd.com/20250818/qpmHCtir/index.m3u8
-时光遗忘之地正片	美国	动作片,https://vodcnd07.myqqdd.com/20250817/62Lv2a0P/index.m3u8
-极道追杀令正片	瑞士	动作片,https://vodcnd07.myqqdd.com/20250817/nhBPCnIR/index.m3u8
-宙斯之子：赫拉克勒斯正片	美国,匈牙利	动作片,https://vodcnd07.myqqdd.com/20250817/w3P8DW4u/index.m3u8
-城市巨藤正片	美国	动作片,https://vodcnd09.myqqdd.com/20250816/By1bw9Tj/index.m3u8
-萨马纳正片	西班牙	动作片,https://vodcnd09.myqqdd.com/20250816/sHT2hSvW/index.m3u8
-深渊之眼正片	阿根廷	动作片,https://vodcnd14.myqqdd.com/20250815/YA3XArkL/index.m3u8
-欲火 2025正片	印度	动作片,https://vodcnd14.myqqdd.com/20250815/IiNkcqUC/index.m3u8
-王者之心正片	美国,英国,德国	动作片,https://vodcnd09.myqqdd.com/20250815/grncix34/index.m3u8
-破果正片	韩国	动作片,https://vodcnd14.myqqdd.com/20250815/Hb0s7zVZ/index.m3u8
-超人 2025正片	美国	动作片,https://vodcnd14.myqqdd.com/20250815/ixMZy4EN/index.m3u8
-仲夏六日正片	美国	动作片,https://vodcnd14.myqqdd.com/20250815/Oy6mIm7w/index.m3u8
-透明剑士正片	日本	动作片,https://vodcnd14.myqqdd.com/20250815/PU7V2FzD/index.m3u8
-金童子正片	美国	动作片,https://vodcnd14.myqqdd.com/20250815/kgrywxHG/index.m3u8
-月光诗篇正片	巴西	动作片,https://vodcnd09.myqqdd.com/20250814/0Yy0IlnH/index.m3u8
+
 
 
 
@@ -2319,6 +2260,66 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 执法者们(2025)
 
 
+了不起的约翰森：处处犯错正片	美国	动作片,https://vodcnd14.myqqdd.com/20250826/ezH5qU0f/index.m3u8
+双球正片	美国	动作片,https://vodcnd14.myqqdd.com/20250826/yhXS2aZE/index.m3u8
+黄飞鸿之二：男儿当自强正片	中国香港	动作片,https://vodcnd07.myqqdd.com/20250825/KV3khjZK/index.m3u8
+奇趣马戏团：吸血鬼的助手正片	美国	动作片,https://vodcnd09.myqqdd.com/20250825/Ld7OVB5r/index.m3u8
+杰森博士正片	美国,德国,希腊	动作片,https://vodcnd09.myqqdd.com/20250824/gZmfGwvH/index.m3u8
+爱尔兰正片	美国,爱尔兰	动作片,https://vodcnd09.myqqdd.com/20250824/oqpJhbnj/index.m3u8
+卡比尔·阿扎比：因西和金妮正片	土耳其	动作片,https://vodcnd14.myqqdd.com/20250824/COwn8Pq6/index.m3u8
+掩护 Take Cover正片	美国	动作片,https://vodcnd14.myqqdd.com/20250824/L7dconXT/index.m3u8
+蜘蛛侠英雄无归正片	美国	动作片,https://vodcnd14.myqqdd.com/20250823/HXOqmWl9/index.m3u8
+宇宙狙击正片	中国香港,菲律宾	动作片,https://vodcnd07.myqqdd.com/20250824/cmlfWEFF/index.m3u8
+高度戒备正片	中国香港	动作片,https://vodcnd09.myqqdd.com/20250824/pgvI6rHj/index.m3u8
+无味神探（粤语版）正片	中国香港	动作片,https://vodcnd07.myqqdd.com/20250824/vDXqehm5/index.m3u8
+布局正片	中国香港	动作片,https://vodcnd08.myqqdd.com/20250823/X9UwQYWR/index.m3u8
+大冲撞正片	中国大陆	动作片,https://vodcnd08.myqqdd.com/20250823/9Po8Y9XX/index.m3u8
+庙街公主正片	中国香港	动作片,https://vodcnd07.myqqdd.com/20250823/CHdUqrko/index.m3u8
+深空失忆正片	德国,英国,美国	动作片,https://vodcnd14.myqqdd.com/20250823/xKU77I9i/index.m3u8
+笑傲江湖 1990正片	中国香港,中国台湾	动作片,https://vodcnd07.myqqdd.com/20250823/gn2cnpdE/index.m3u8
+决战枭雄正片	中国大陆	动作片,https://vodcnd07.myqqdd.com/20250823/lCLdVP1e/index.m3u8
+英雄喋血正片	中国大陆	动作片,https://vodcnd07.myqqdd.com/20250823/8WoAuuwR/index.m3u8
+枪王 (普通话版)正片	中国香港	动作片,https://vodcnd07.myqqdd.com/20250823/aglVVHLl/index.m3u8
+好胆别走正片	美国	动作片,https://vodcnd09.myqqdd.com/20250823/LXyyb1Aa/index.m3u8
+古墓丽影2正片	美国,德国,日本,英国	动作片,https://vodcnd14.myqqdd.com/20250823/yp3CzkkY/index.m3u8
+古墓丽影正片	美国,英国,日本,德国	动作片,https://vodcnd14.myqqdd.com/20250823/GebAK1Hm/index.m3u8
+纽约大逃亡正片	英国,美国	动作片,https://vodcnd14.myqqdd.com/20250823/GQuAleSm/index.m3u8
+狙击职业杀手正片	美国,英国,法国,德国,日本	动作片,https://vodcnd14.myqqdd.com/20250823/bXFqBVFp/index.m3u8
+街头霸王2正片	日本	动作片,https://vodcnd14.myqqdd.com/20250823/t9zYaVGJ/index.m3u8
+木乃伊 1999正片	美国	动作片,https://vodcnd09.myqqdd.com/20250821/kTjchGNJ/index.m3u8
+母子威龙正片	美国	动作片,https://vodcnd09.myqqdd.com/20250821/lJZspQtG/index.m3u8
+怒海威龙正片	中国大陆,菲律宾	动作片,https://vodcnd07.myqqdd.com/20250821/6ijXExvw/index.m3u8
+木棉袈裟正片	中国大陆,中国香港	动作片,https://vodcnd07.myqqdd.com/20250821/Enez8gbI/index.m3u8
+武馆正片	中国香港	动作片,https://vodcnd08.myqqdd.com/20250821/FWcprtDA/index.m3u8
+生死危机正片	中国大陆	动作片,https://vodcnd08.myqqdd.com/20250821/TVCZWXAB/index.m3u8
+恶童正片	日本	动作片,https://vodcnd07.myqqdd.com/20250820/fkiEJHGm/index.m3u8
+抗癌正片	中国大陆	动作片,https://vodcnd07.myqqdd.com/20250820/yI39kMR9/index.m3u8
+乐高大师 Jr.正片	美国	动作片,https://vodcnd07.myqqdd.com/20250820/GtP1ARo1/index.m3u8
+伦敦真正的家庭主妇正片	英国	动作片,https://vodcnd09.myqqdd.com/20250819/4Zffv1mX/index.m3u8
+沉默法则正片	英国	动作片,https://vodcnd09.myqqdd.com/20250819/4xeCiH0m/index.m3u8
+忍者蝙蝠侠大战极道联盟正片	日本	动作片,https://vodcnd09.myqqdd.com/20250819/Hob23VlN/index.m3u8
+饥饿游戏2：星火燎原正片	美国	动作片,https://vodcnd09.myqqdd.com/20250819/FJ02yCMd/index.m3u8
+惊天营救2正片	美国	动作片,https://vodcnd09.myqqdd.com/20250819/7OTqdKls/index.m3u8
+妖魔大闹唐人街正片	美国	动作片,https://vodcnd09.myqqdd.com/20250819/X8cFXScz/index.m3u8
+小人物2抢先版	美国	动作片,https://vodcnd14.myqqdd.com/20250819/OIavpLCd/index.m3u8
+杀戮湾正片	美国	动作片,https://vodcnd07.myqqdd.com/20250818/wkIxOnIE/index.m3u8
+矿工的儿子正片	美国	动作片,https://vodcnd07.myqqdd.com/20250818/b5sCCuKy/index.m3u8
+寄宿学校谋杀疑云正片	美国	动作片,https://vodcnd07.myqqdd.com/20250818/37zeCoNC/index.m3u8
+碟中谍8：最终清算正片	美国	动作片,https://vodcnd14.myqqdd.com/20250818/qpmHCtir/index.m3u8
+时光遗忘之地正片	美国	动作片,https://vodcnd07.myqqdd.com/20250817/62Lv2a0P/index.m3u8
+极道追杀令正片	瑞士	动作片,https://vodcnd07.myqqdd.com/20250817/nhBPCnIR/index.m3u8
+宙斯之子：赫拉克勒斯正片	美国,匈牙利	动作片,https://vodcnd07.myqqdd.com/20250817/w3P8DW4u/index.m3u8
+城市巨藤正片	美国	动作片,https://vodcnd09.myqqdd.com/20250816/By1bw9Tj/index.m3u8
+萨马纳正片	西班牙	动作片,https://vodcnd09.myqqdd.com/20250816/sHT2hSvW/index.m3u8
+深渊之眼正片	阿根廷	动作片,https://vodcnd14.myqqdd.com/20250815/YA3XArkL/index.m3u8
+欲火 2025正片	印度	动作片,https://vodcnd14.myqqdd.com/20250815/IiNkcqUC/index.m3u8
+王者之心正片	美国,英国,德国	动作片,https://vodcnd09.myqqdd.com/20250815/grncix34/index.m3u8
+破果正片	韩国	动作片,https://vodcnd14.myqqdd.com/20250815/Hb0s7zVZ/index.m3u8
+超人 2025正片	美国	动作片,https://vodcnd14.myqqdd.com/20250815/ixMZy4EN/index.m3u8
+仲夏六日正片	美国	动作片,https://vodcnd14.myqqdd.com/20250815/Oy6mIm7w/index.m3u8
+透明剑士正片	日本	动作片,https://vodcnd14.myqqdd.com/20250815/PU7V2FzD/index.m3u8
+金童子正片	美国	动作片,https://vodcnd14.myqqdd.com/20250815/kgrywxHG/index.m3u8
+月光诗篇正片	巴西	动作片,https://vodcnd09.myqqdd.com/20250814/0Yy0IlnH/index.m3u8
 
 
 
