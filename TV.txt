@@ -364,89 +364,160 @@ CGTN西班牙语,http://ygbh.site/php/bfgd.php?id=306
 █████████████████████████████████████████████
 📺港台电视,#genre#
 █████████████████████████████████████████████
-凤凰中文频限,http://iptv.4666888.xyz/iptv.php?id=20063
-凤凰资讯频限,http://iptv.4666888.xyz/iptv.php?id=20064
-凤凰香港频限,http://iptv.4666888.xyz/iptv.php?id=20065
-无线翡翠频限,http://iptv.4666888.xyz/iptv.php?id=20066
-无线翡翠新坡,http://iptv.4666888.xyz/iptv.php?id=20067
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+八大戏剧,https://stream1.freetv.fun/6b1701a07ea621155cdaa9ee604b6c6ebc763093fafaf493ce7a3c2e206be799.m3u8
+八大戏剧,https://stream1.freetv.fun/ba-da-xi-ju-1.m3u8
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+靖洋戏剧,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB星河2,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
+八大综合,https://stream1.freetv.fun/ba-da-zong-he-2.m3u8
+八大综合,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+PopC,http://bxtv.3a.ink/api.php?id=popc
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+POPC,http://tl.061833.xyz/tl/popc
+星河台,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+功夫台,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+广东体育,http://bxtv.3a.ink/api.php?id=gdty
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
+
+❤️新港澳台3,#genre#
+CM+电影频效,http://iptv.4666888.xyz/iptv.php?id=20278
+Now星影频效,http://iptv.4666888.xyz/iptv.php?id=20086
+中天新闻频效,http://iptv.4666888.xyz/iptv.php?id=20173
+中天新闻加效,http://iptv.4666888.xyz/iptv.php?id=20181
+Now新闻频效,http://iptv.4666888.xyz/iptv.php?id=20082
+无线翡翠频效,http://iptv.4666888.xyz/iptv.php?id=20066
 无线翡翠马来,http://iptv.4666888.xyz/iptv.php?id=20068
-无线明珠频限,http://iptv.4666888.xyz/iptv.php?id=20071
-无线娱乐频限,http://iptv.4666888.xyz/iptv.php?id=20073
-无线星河粤限,http://iptv.4666888.xyz/iptv.php?id=20101
-无线星河国限,http://iptv.4666888.xyz/iptv.php?id=20102
-无线生活频限,http://iptv.4666888.xyz/iptv.php?id=20074
-无线功夫国限,http://iptv.4666888.xyz/iptv.php?id=20104
-无线功夫粤限,http://iptv.4666888.xyz/iptv.php?id=20103
-无线翡剧频限,http://iptv.4666888.xyz/iptv.php?id=20099
-无线明剧频限,http://iptv.4666888.xyz/iptv.php?id=20098 
-无线_1美频限,http://iptv.4666888.xyz/iptv.php?id=20095
-无线J1美频限,http://iptv.4666888.xyz/iptv.php?id=20096
-无线_E美频限,http://iptv.4666888.xyz/iptv.php?id=20097
-无线新闻美限,http://iptv.4666888.xyz/iptv.php?id=20070
-无线千禧频限,http://iptv.4666888.xyz/iptv.php?id=20105
-无线经典频限,http://iptv.4666888.xyz/iptv.php?id=20107
-无线综合频限,http://iptv.4666888.xyz/iptv.php?id=20111
-无线亚剧频限,http://iptv.4666888.xyz/iptv.php?id=20109
-无线戏曲频限,http://iptv.4666888.xyz/iptv.php?id=20113
-无线粤片频限,http://iptv.4666888.xyz/iptv.php?id=20112
-无线少儿频限,http://iptv.4666888.xyz/iptv.php?id=20110
-无线奖门人限,http://iptv.4666888.xyz/iptv.php?id=20138
-无线-EYT频限,http://iptv.4666888.xyz/iptv.php?id=20133
-无线识食频限,http://iptv.4666888.xyz/iptv.php?id=20141
-无线识叹频限,http://iptv.4666888.xyz/iptv.php?id=20140
-无线金曲频限,http://iptv.4666888.xyz/iptv.php?id=20142
-无线音乐频限,http://iptv.4666888.xyz/iptv.php?id=20134
-无线剧场频限,http://iptv.4666888.xyz/iptv.php?id=20136
-无线煲剧频限,http://iptv.4666888.xyz/iptv.php?id=20137 
-无线话当年限,http://iptv.4666888.xyz/iptv.php?id=20139
-无线体育频限,http://iptv.4666888.xyz/iptv.php?id=20135
-有线综合频限,http://iptv.4666888.xyz/iptv.php?id=20078
-有线赛讯频限,http://iptv.4666888.xyz/iptv.php?id=20077
-有线赛马频限,http://iptv.4666888.xyz/iptv.php?id=20124
-黄金翡翠频限,http://iptv.4666888.xyz/iptv.php?id=20106
-黄金华剧频限,http://iptv.4666888.xyz/iptv.php?id=20100
-Plus综合频限,http://iptv.4666888.xyz/iptv.php?id=20072
-pₒₚc电影频限,http://iptv.4666888.xyz/iptv.php?id=20118
-CM+电影频限,http://iptv.4666888.xyz/iptv.php?id=20278
-Now爆谷粤限,http://iptv.4666888.xyz/iptv.php?id=20087
-Now爆谷国限,http://iptv.4666888.xyz/iptv.php?id=20089
-Now星影粤限,http://iptv.4666888.xyz/iptv.php?id=20086
-Now星影国限,http://iptv.4666888.xyz/iptv.php?id=20088
-中天新闻频限,http://iptv.4666888.xyz/iptv.php?id=20173
-中天新闻加限,http://iptv.4666888.xyz/iptv.php?id=20181
-有线新闻频限,http://iptv.4666888.xyz/iptv.php?id=20079
-无线新闻频限,http://iptv.4666888.xyz/iptv.php?id=20069
-Now新闻频限,http://iptv.4666888.xyz/iptv.php?id=20082
-Now剧集频限,http://iptv.4666888.xyz/iptv.php?id=20091
-Now紫金频限,http://iptv.4666888.xyz/iptv.php?id=20090
+无线娱乐频效,http://iptv.4666888.xyz/iptv.php?id=20073
+无线星河粤效,http://iptv.4666888.xyz/iptv.php?id=20101
+无线功夫粤效,http://iptv.4666888.xyz/iptv.php?id=20103
+无线翡剧频效,http://iptv.4666888.xyz/iptv.php?id=20099
+无线_1美频效,http://iptv.4666888.xyz/iptv.php?id=20095
+无线J1美频效,http://iptv.4666888.xyz/iptv.php?id=20096
+无线千禧频效,http://iptv.4666888.xyz/iptv.php?id=20105
+无线经典频效,http://iptv.4666888.xyz/iptv.php?id=20107
+无线亚剧频效,http://iptv.4666888.xyz/iptv.php?id=20109
+无线戏曲频效,http://iptv.4666888.xyz/iptv.php?id=20113
+无线粤片频效,http://iptv.4666888.xyz/iptv.php?id=20112
+有线综合频效,http://iptv.4666888.xyz/iptv.php?id=20078
+有线赛马频效,http://iptv.4666888.xyz/iptv.php?id=20124
+无线赛马频效,http://iptv.4666888.xyz/iptv.php?id=20125
+黄金翡翠频效,http://iptv.4666888.xyz/iptv.php?id=20106
+Now财经频效,http://iptv.4666888.xyz/iptv.php?id=20085
+VIUTV-粤频效,http://iptv.4666888.xyz/iptv.php?id=20075
+VIUTV-英频效,http://iptv.4666888.xyz/iptv.php?id=20076
+RTHK-32频效,http://iptv.4666888.xyz/iptv.php?id=20081
+新加乐酷频效,http://iptv.4666888.xyz/iptv.php?id=20281
+新加_E乐频效,http://iptv.4666888.xyz/iptv.php?id=20282
+新加CHu频效,http://iptv.4666888.xyz/iptv.php?id=20284
+新加CH5频效,http://iptv.4666888.xyz/iptv.php?id=20285
+新加CH8频效,http://iptv.4666888.xyz/iptv.php?id=20286
+天映经典国效,http://iptv.4666888.xyz/iptv.php?id=20115
+天映经典粤效,http://iptv.4666888.xyz/iptv.php?id=20114
+天映频道国效,http://iptv.4666888.xyz/iptv.php?id=20116
+天映频道粤效,http://iptv.4666888.xyz/iptv.php?id=20117
+星光综合频效,http://iptv.4666888.xyz/iptv.php?id=20121
+重温经典频效,http://iptv.4666888.xyz/iptv.php?id=20122
+澳门莲花频效,http://iptv.4666888.xyz/iptv.php?id=20130
+澳门资讯频效,http://iptv.4666888.xyz/iptv.php?id=20129
+澳门Macau效,http://iptv.4666888.xyz/iptv.php?id=20128
+澳视澳门频效,http://iptv.4666888.xyz/iptv.php?id=20127
+澳门体育频效,http://iptv.4666888.xyz/iptv.php?id=20131
+
+❤️新港澳台4,#genre#
+广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
+广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb
+广州法治,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=f84d116447cf4c6fc8a66820d3fa2777&txTime=193108637cb
+广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=c53d0e4d014632321a8e0efd6abecda4&txTime=193108637cb
+广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb
+广州南国,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
+民视闽南,rtmp://f13h.mine.nu/sat/tv051
+中视闽南,rtmp://f13h.mine.nu/sat/tv091
+华视闽南,rtmp://f13h.mine.nu/sat/tv111
+台视闽南,rtmp://f13h.mine.nu/sat/tv071
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+动物星球国,http://61.221.215.25:8800/hls/57/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+RHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+nowsports,https://stream1.freetv.fun/nowsports-1.ctv
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
+CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
+CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
+TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+
+❤️新港澳台5,#genre#
 Now英超频限,http://iptv.4666888.xyz/iptv.php?id=20092
-VIUTV-粤频限,http://iptv.4666888.xyz/iptv.php?id=20075
-VIUTV-英频限,http://iptv.4666888.xyz/iptv.php?id=20076
-RTHK-31频限,http://iptv.4666888.xyz/iptv.php?id=20080
-RTHK-32频限,http://iptv.4666888.xyz/iptv.php?id=20081
-HUB娱家频限,http://iptv.4666888.xyz/iptv.php?id=20287
-HUB都会频限,http://iptv.4666888.xyz/iptv.php?id=20288
-新加乐酷频限,http://iptv.4666888.xyz/iptv.php?id=20281
-新加_E乐频限,http://iptv.4666888.xyz/iptv.php?id=20282
-新加佳乐频限,http://iptv.4666888.xyz/iptv.php?id=20289
-新加CHu频限,http://iptv.4666888.xyz/iptv.php?id=20284
-新加CH5频限,http://iptv.4666888.xyz/iptv.php?id=20285
-新加CH8频限,http://iptv.4666888.xyz/iptv.php?id=20286
-天映经典国限,http://iptv.4666888.xyz/iptv.php?id=20115
-天映经典粤限,http://iptv.4666888.xyz/iptv.php?id=20114
-天映频道国限,http://iptv.4666888.xyz/iptv.php?id=20116
-天映频道粤限,http://iptv.4666888.xyz/iptv.php?id=20117
-星光综合频限,http://iptv.4666888.xyz/iptv.php?id=20121
-澳门莲花频限,http://iptv.4666888.xyz/iptv.php?id=20130
-澳门资讯频限,http://iptv.4666888.xyz/iptv.php?id=20129
-澳门Macau限,http://iptv.4666888.xyz/iptv.php?id=20128
-澳视澳门频限,http://iptv.4666888.xyz/iptv.php?id=20127
-澳门体育频限,http://iptv.4666888.xyz/iptv.php?id=20131
-澳门综合频限,http://iptv.4666888.xyz/iptv.php?id=20131
-
-
-中天新闻频限,http://iptv.4666888.xyz/iptv.php?id=20173
-中天新闻加限,http://iptv.4666888.xyz/iptv.php?id=20181
 寰宇新闻频限,http://iptv.4666888.xyz/iptv.php?id=20176
 东森新闻频限,http://iptv.4666888.xyz/iptv.php?id=20174
 东森新闻美限,http://iptv.4666888.xyz/iptv.php?id=20175
@@ -459,198 +530,194 @@ tvbs新闻频限,http://iptv.4666888.xyz/iptv.php?id=20168
 三立台湾频限,http://iptv.4666888.xyz/iptv.php?id=20202
 三立戏剧频限,http://iptv.4666888.xyz/iptv.php?id=20203
 三立综合频限,http://iptv.4666888.xyz/iptv.php?id=20204
-三立都会频限,http://iptv.4666888.xyz/iptv.php?id=20205
-中天亚洲频限,http://iptv.4666888.xyz/iptv.php?id=20196
 中天综合频限,http://iptv.4666888.xyz/iptv.php?id=20195
-中天娱乐频限,http://iptv.4666888.xyz/iptv.php?id=20194 
 八大第一频限,http://iptv.4666888.xyz/iptv.php?id=20197
-八大综合频限,http://iptv.4666888.xyz/iptv.php?id=20198
 八大戏剧频限,http://iptv.4666888.xyz/iptv.php?id=20199
-八大娱乐频限,http://iptv.4666888.xyz/iptv.php?id=20200
-八大精采频限,http://iptv.4666888.xyz/iptv.php?id=20201
-东森洋片频限,http://iptv.4666888.xyz/iptv.php?id=20212
-东森电影频限,http://iptv.4666888.xyz/iptv.php?id=20211
 东森美洲频限,http://iptv.4666888.xyz/iptv.php?id=20210
 东森超视频限,http://iptv.4666888.xyz/iptv.php?id=20208
 东森戏剧频限,http://iptv.4666888.xyz/iptv.php?id=20207
 东森综合频限,http://iptv.4666888.xyz/iptv.php?id=20206
-民视综艺频限,http://iptv.4666888.xyz/iptv.php?id=20217
-民视第一频限,http://iptv.4666888.xyz/iptv.php?id=20215
 民视闽语频限,http://iptv.4666888.xyz/iptv.php?id=20216
-民视影剧频限,http://iptv.4666888.xyz/iptv.php?id=20219
-民视旅游频限,http://iptv.4666888.xyz/iptv.php?id=20218
 民视闽南频限,http://iptv.4666888.xyz/iptv.php?id=20182
 民视新闻频限,http://iptv.4666888.xyz/iptv.php?id=20177
 中视菁采频限,http://iptv.4666888.xyz/iptv.php?id=20222
-中视经典频限,http://iptv.4666888.xyz/iptv.php?id=20221
 中视闽南频限,http://iptv.4666888.xyz/iptv.php?id=20183
 中视新闻频限,http://iptv.4666888.xyz/iptv.php?id=20171
 台视新闻频限,http://iptv.4666888.xyz/iptv.php?id=20172
- 台视综合频限,http://iptv.4666888.xyz/iptv.php?id=20220
-公视闽南频限,http://iptv.4666888.xyz/iptv.php?id=20185
 华视闽南频限,http://iptv.4666888.xyz/iptv.php?id=20184
 台视闽南频限,http://iptv.4666888.xyz/iptv.php?id=20186
-公视戏剧频限,http://iptv.4666888.xyz/iptv.php?id=20292
-寰宇闽南频限,http://iptv.4666888.xyz/iptv.php?id=20293
-靖天资讯频限,http://iptv.4666888.xyz/iptv.php?id=20302
-靖天育乐频限,http://iptv.4666888.xyz/iptv.php?id=20301
-靖天电影频限,http://iptv.4666888.xyz/iptv.php?id=20300
-靖天戏剧频限,http://iptv.4666888.xyz/iptv.php?id=20299
-靖天映画频限,http://iptv.4666888.xyz/iptv.php?id=20298
-靖天欢乐频限,http://iptv.4666888.xyz/iptv.php?id=20297
-靖天综合频限,http://iptv.4666888.xyz/iptv.php?id=20296
-靖天国际频限,http://iptv.4666888.xyz/iptv.php?id=20236
-靖洋戏剧频限,http://iptv.4666888.xyz/iptv.php?id=20294 
 纬来体育频限,http://iptv.4666888.xyz/iptv.php?id=20225
 纬来日本频限,http://iptv.4666888.xyz/iptv.php?id=20226
 纬来电影频限,http://iptv.4666888.xyz/iptv.php?id=20227
 纬来综合频限,http://iptv.4666888.xyz/iptv.php?id=20228
-纬来精采频限,http://iptv.4666888.xyz/iptv.php?id=20229
-tvbs精采频限,http://iptv.4666888.xyz/iptv.php?id=20191
 tvbs欢乐频限,http://iptv.4666888.xyz/iptv.php?id=20189
-tvbs亚洲频限,http://iptv.4666888.xyz/iptv.php?id=20190
 tvbs台剧频限,http://iptv.4666888.xyz/iptv.php?id=20193
 tvbs闽南频限,http://iptv.4666888.xyz/iptv.php?id=20188
-华艺综合频限,http://iptv.4666888.xyz/iptv.php?id=20223
 亚洲美食频限,http://iptv.4666888.xyz/iptv.php?id=20270
 美食星球频限,http://iptv.4666888.xyz/iptv.php?id=20271
 TLC-旅游频限,http://iptv.4666888.xyz/iptv.php?id=20272
-ELta娱乐频限,http://iptv.4666888.xyz/iptv.php?id=20303
 ELta综合频限,http://iptv.4666888.xyz/iptv.php?id=20231
-ELta影剧频限,http://iptv.4666888.xyz/iptv.php?id=20230
 BBC新闻频限,http://iptv.4666888.xyz/iptv.php?id=20279
 BBC综合频限,http://iptv.4666888.xyz/iptv.php?id=20280
 美亚电影频限,http://iptv.4666888.xyz/iptv.php?id=20239
 HBO家庭频限,http://iptv.4666888.xyz/iptv.php?id=20253
 HBO强档频限,http://iptv.4666888.xyz/iptv.php?id=20252
-HBO原创频限,http://iptv.4666888.xyz/iptv.php?id=20251
-HBO高清频限,http://iptv.4666888.xyz/iptv.php?id=20250
-HBO频道频限,http://iptv.4666888.xyz/iptv.php?id=20249 
-
-
-
-
-
-
-台湾|TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
-台湾|TVBS欢乐台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbshuanle_twn
-台湾|TVBS HD,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs
-台湾|中天新闻 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
-台湾|中天娱乐,https://pixman.mytvsuper.com.mp/Smart.php?id=ctient
-台湾|中天综合,https://pixman.mytvsuper.com.mp/Smart.php?id=ctizhonghe
-台湾|中天亚洲台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctiasia_twn
-台湾|台视 TTV HD,https://pixman.mytvsuper.com.mp/Smart.php?id=ttv_taiwan
-台湾|台视新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvnews_twn
-台湾|台视综合台,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvzhonghe
-台湾|中视 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshihd_twn
-台湾|中视新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshinews_twn
-台湾|民视 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvhd_taiwan
-台湾|民视新闻台 FTV News,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvnew_taiwan
-台湾|民视台湾台,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvtaiwan_twn
-台湾|华视 CTS HD,https://pixman.mytvsuper.com.mp/Smart.php?id=ctshd_twn
-台湾|公视 CTV,https://pixman.mytvsuper.com.mp/Smart.php?id=ctv18_twn
-台湾|八大第一 GTV First,https://pixman.mytvsuper.com.mp/Smart.php?id=badafirst
-台湾|八大综合 GTV Metro,https://pixman.mytvsuper.com.mp/Smart.php?id=badazhonghe
-台湾|八大戏剧 GTV Drama,https://pixman.mytvsuper.com.mp/Smart.php?id=badadrama
-台湾|八大娱乐 GTV Entertainment,https://pixman.mytvsuper.com.mp/Smart.php?id=badaentertain
-台湾|HBO_HD,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn
-台湾|Hollywood Movies,https://pixman.mytvsuper.com.mp/Smart.php?id=hollywoodmovies_twn
-台湾|三立台湾 Sanli Taiwan,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlitaiwan
-台湾|三立戏剧台,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlixiju_twn
-台湾|三立综合 Sanli Metro,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlizhonghe
-台湾|三立都会台,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlidouhui
-台湾|东森新闻 ETTV News,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
-台湾|CINEMAX,https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn
-台湾|东森综合 ETTV Metro,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvzhonghe
-台湾|东森戏剧 ETTV Drama,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvdrama
-台湾|东森超视,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvsuper
-台湾|东森财经新闻 ETTV Business,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvcaijing_twn
-台湾|寰宇财经,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyutaiwan_twn
-台湾|寰宇新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
-台湾|公视2,https://pixman.mytvsuper.com.mp/Smart.php?id=ctv2_twn
-台湾|大爱1台,https://pixman.mytvsuper.com.mp/Smart.php?id=daai_twn
-台湾|非凡新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=feifannews_twn
-台湾|龙华戏剧 Lunghua Drama,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaxiju_twn
-台湾|龙华经典台,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuajingdian_twn
-台湾|龙华偶像,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaidol_twn
-台湾|AXN Taiwan,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
-台湾|靖天国际台,https://pixman.mytvsuper.com.mp/Smart.php?id=jingtianintl_twn
-台湾|年代新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=niandainews_twn
-台湾|纬来日本台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandjapan
-台湾|纬来电影台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
-台湾|纬来体育台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport
-台湾|纬来综合台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandzonghe
-台湾|纬来育乐,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandyule
-台湾|纬来精彩,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandspecial_twn
-台湾|好消息 2,https://pixman.mytvsuper.com.mp/Smart.php?id=good2_twn
-台湾|大爱2台,https://pixman.mytvsuper.com.mp/Smart.php?id=daai2_twn
+HBO频道频限,http://iptv.4666888.xyz/iptv.php?id=20249
 台湾|亚洲美食,https://pixman.mytvsuper.com.mp/Smart.php?id=afc_twn
-台湾|美食星球,https://pixman.mytvsuper.com.mp/Smart.php?id=foodplanet_twn
-台湾|亚洲旅游 TLC Asia,https://pixman.mytvsuper.com.mp/Smart.php?id=tlc_twn
-台湾|东森电影 ETTV Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
-台湾|阿里郎 Arirang,https://pixman.mytvsuper.com.mp/Smart.php?id=arirang_twn
-台湾|博斯运动 1,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport1_twn
-台湾|博斯运动 2,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport2_twn
-台湾|博斯高球2 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf2_twn
-台湾|博斯网球 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=bositennis_twn
-台湾|东森洋片 ETTV Western,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvwestern
-台湾|龙华洋片 Lunghua Western,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuawestern_twn
-台湾|博斯无限,https://pixman.mytvsuper.com.mp/Smart.php?id=bosiunlimited_twn
-台湾|MTV Live,https://pixman.mytvsuper.com.mp/Smart.php?id=mtvhd_twn
-台湾|龙详时代,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
-台湾|EYETV 旅游,https://pixman.mytvsuper.com.mp/Smart.php?id=eyetvtravel_twn
-台湾|靖天卡通台,https://pixman.mytvsuper.com.mp/Smart.php?id=jingtiancartoon_twn
-台湾|EYETV 戏剧,https://pixman.mytvsuper.com.mp/Smart.php?id=eyetvxiju_twn
-台湾|卫视中文台 Star Movies Chinese,https://pixman.mytvsuper.com.mp/Smart.php?id=weishichinese_twn
-台湾|东森幼幼 Yoyo TV,https://pixman.mytvsuper.com.mp/Smart.php?id=yoyo_twn
-台湾|卫视电影台,https://pixman.mytvsuper.com.mp/Smart.php?id=weishimovie_twn
-台湾|美亚电影,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
-台湾|爱尔达影剧台,https://pixman.mytvsuper.com.mp/Smart.php?id=eltayingju_twn
-台湾|爱尔达综合台,https://pixman.mytvsuper.com.mp/Smart.php?id=eltazonghe_twn
-台湾|星卫电影,https://pixman.mytvsuper.com.mp/Smart.php?id=xingwei_movie
-台湾|爱尔达影剧,https://pixman.mytvsuper.com.mp/Smart.php?id=eltayingju_twn
-台湾|AFC 亚洲旅游台,https://pixman.mytvsuper.com.mp/Smart.php?id=asiatravel_twn
-台湾|爱尔达体育2台,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport2_twn
-台湾|爱尔达体育3台,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport3_twn
-
-电影频道|HBO_HD,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn
-电影频道|HBO_HITS,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohit_twn
-电影频道|Hollywood Movies,https://pixman.mytvsuper.com.mp/Smart.php?id=hollywoodmovies_twn
-电影频道|CCTV-6,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv6
-电影频道|CINEMAX,https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn
-电影频道|Cinemax,https://pixman.mytvsuper.com.mp/Smart.php?id=Cinemax
-电影频道|AXN Taiwan,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
-电影频道|大爱2台,https://pixman.mytvsuper.com.mp/Smart.php?id=daai2_twn
-电影频道|东森电影 ETTV Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
-电影频道|东森洋片 ETTV Western,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvwestern
-电影频道|龙华洋片 Lunghua Western,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuawestern_twn
-电影频道|Animax,https://pixman.mytvsuper.com.mp/Smart.php?id=Animax
-电影频道|龙详时代,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
-电影频道|Movies Now HD,https://pixman.mytvsuper.com.mp/Smart.php?id=moviesnow_raj
-电影频道|Star Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=starmovies_raj
-电影频道|卫视中文台 Star Movies Chinese,https://pixman.mytvsuper.com.mp/Smart.php?id=weishichinese_twn
-电影频道|HBO Family,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbofamily
-电影频道|Hits,https://pixman.mytvsuper.com.mp/Smart.php?id=Hits
-电影频道|Warner TV,https://pixman.mytvsuper.com.mp/Smart.php?id=WarnerTV
-电影频道|卫视电影台,https://pixman.mytvsuper.com.mp/Smart.php?id=weishimovie_twn
-电影频道|HBO HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbo
-电影频道|美亚电影,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
-电影频道|HBO Signature,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbosignature
-电影频道|HBO Hits,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbohitshd
-电影频道|星卫电影,https://pixman.mytvsuper.com.mp/Smart.php?id=xingwei_movie
-电影频道|SCM,https://pixman.mytvsuper.com.mp/Smart.php?id=Weishimovie
-电影频道|Dreamworks,https://pixman.mytvsuper.com.mp/Smart.php?id=Dreamworks
-电影频道|Thrill,https://pixman.mytvsuper.com.mp/Smart.php?id=Thrill
-电影频道|Hits Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Hitsmovie
-电影频道|One,https://pixman.mytvsuper.com.mp/Smart.php?id=One
-电影频道|tvN Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvnmovie
-电影频道|Celestial Classic,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestial2
-电影频道|Celestial Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestialindo
-电影频道|Axn HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Axn
-电影频道|Paramount Network,https://pixman.mytvsuper.com.mp/Smart.php?id=Paramountnetwork
 电影频道|Astrol Kplus,https://pixman.mytvsuper.com.mp/Smart.php?id=Kplus
-电影频道|Rock Actions,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockaction
-电影频道|Rock Entertainment,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockentertain
+
+港台🍋测试,#genre#
+0829翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+翡翠台 backup,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+iNews 新闻台,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+J 2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+珍珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+RHK 31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
+VIUTV1,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
+凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+Viu6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+TVBS亚洲[1920x1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVB无线新闻台[1920x1080],http://php.jdshipin.com/smt.php?id=inews_twn
+TVB无线新闻台[1920x1080],https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+TVB明珠台[1920x1080],http://8.138.7.223/tv/gdmzyd.php?id=3
+TVB明珠台[1920x1080],http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+TVB星河频道[1920x1080],http://8.138.7.223/tv/gdmzyd.php?id=2
+VIUTV[1920x1080],http://php.jdshipin.com:8880/iptv.php?id=viutv
+Viutv[1920x1080],http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+YG未来[1920x1080],http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+东森超视[1920x1080],http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森超视[1920x1080],http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+中国|CGTN俄语[1920x1080],http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+中国|CGTN法语[1920x1080],http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd.m3u8
+中国|CGTN西语[1920x1080],http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+中国|CGTN阿语[1920x1080],http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
+中天新闻[1920x1080],http://8.138.7.223/tv/hot.php?id=70
+中天新闻[1920x1080],http://222.128.55.152:9080/live/fc.m3u8
+中旺电视[1920x1080],http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
+亞洲衛視[1920x1080],https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+冰冰剧场[1920x1080],http://lxajh.top/tv/douyu.php?id=74374
+凤凰中文[1920x1080],http://8.138.7.223/tv/gdmzyd.php?id=4
+凤凰中文[1920x1080],http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯[1920x1080],http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+台视新闻[1920x1080],http://222.128.55.152:9080/live/ts.m3u8
+台视新闻[1920x1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+寰宇新闻[1920x1080],http://8.138.7.223/tv/hot.php?id=71
+寰宇新闻[1920x1080],http://222.128.55.152:9080/live/hy.m3u8
+寰宇新闻[1920x1080],https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
+新闻综合[1920x1080],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+无线新闻[1920x1080],http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻[1920x1080],http://8.138.7.223/tv/hot.php?id=69
+无线新闻.备用[1920x1080],http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+无线新闻高特[1920x1080],http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线翡翠频高[1920x1080],http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+星空电影[1920x1080],http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+未来[1920x1080],http://l.cztvcloud.com:80/channels/lantian/SXyuhang3/720p.m3u8
+梨园[1920x1080],http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+民视旅游[1920x1080],http://t.061899.xyz/tl/js/js.php?id=msly
+沭阳综合[1920x1080],http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+澳亚卫视[1920x1080],http://8.138.7.223/tv/gdmzyd.php?id=5
+澳视Macau[1920x1080],http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+澳视卫星[1920x1080],http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳视澳门[1920x1080],http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
+澳视澳门[1920x1080],http://8.138.7.223/tv/gdmzyd.php?id=6
+澳视综艺[1920x1080],http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视葡文[1920x1080],http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+澳视资讯[1920x1080],http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳门莲花[1920x1080],http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+澳门莲花[1920x1080],http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+环球电视台[1920x1080],http://utv1.hqtvzb.com:9999/hls/world.m3u8
+番薯111[1920x1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯111[1920x1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111[1920x1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+经典电影轮播[1920x1080],rtmp://live.gxrb.com.cn/pull/red_movies_0501
+翡翠台[1920x1080],http://8.138.7.223/tv/gdmzyd.php?id=1
+翡翠台[1920x1080],http://8.138.7.223/tv/hot.php?id=68
+翡翠台[1920x1080],http://j.s.bkpcp.top/js/fct
+翡翠台北美版(TVB J1)[1920x1080],http://php.jdshipin.com/TVOD/iptv.php?id=j1
+莲花卫视[1920x1080],http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
+香港J2[1920x1080],https://vdm6-hw.nbgdsygs.com/live/h6-2.flv$1080P
+龙华偶像[1920x1080],https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华戏剧[1920x1080],https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华日韩[1920x1080],https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华电影[1920x1080],https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典[1920x1080],https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+CCTV?Channel1[1066x600],http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+Astr爱奇斯特[1280x720],http://php.jdshipin.com:8880/smt.php?id=Qiyi
+ATV[1280x720],http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+C+[1280x720],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+TVB Plus[1280x720],http://php.jdshipin.com/TVOD/iptv.php?id=j2
+tvbs亚洲[1280x720],https://stream1.freetv.fun/664705905935bd2a420105e1221286de734c45cc4282cce89b423ff9eeb4d7c6.m3u8
+TVB明珠台[1280x720],http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+三立戏剧台[1280x720],http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
+中国|CGTN[1280x720],http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+中国|CGTN记录[1280x720],https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+中天娱乐3[1280x720],https://stream1.freetv.fun/zhong-tian-yu-le-2.m3u8
+凤凰中文[1280x720],https://stream1.freetv.fun/2cd8b0d0e8b7bda9c76ae4e0d554782532055b48e88e266f743eaa21ca7e44e0.ctv
+凤凰中文[1280x720],https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
+凤凰中文[1280x720],http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文[1280x720],http://m.061899.xyz/mg/fhzw
+凤凰资讯[1280x720],http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯[1280x720],http://m.061899.xyz/mg/fhzx
+凤凰资讯[1280x720],http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港[1280x720],http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港[1280x720],http://m.061899.xyz/mg/fhhk
+凤凰香港[1280x720],http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+华藏卫视[1280x720],https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
+天映频道频标[1280x720],http://php.jdshipin.com/smt.php?id=Celestial
+新加坡中文台[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡国际[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+无线星河频标[1280x720],http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+无线翡翠斯特[1280x720],http://php.jdshipin.com:8880/smt.php?id=jade_twn
+无线翡翠频标[1280x720],http://php.jdshipin.com/smt.php?id=jade_twn
+無線新聞[1280x720],https://stream1.freetv.fun/662e5a352f2b84358ebad27c76fec0e01bcc3cd0490e4b00a8dcd0621ddc3d35.m3u8
+翡翠台[1280x720],http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台[1280x720],http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台[1280x720],http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+韩国新闻[1280x720],http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+香港c?[1280x720],https://stream1.freetv.fun/8809ef652c64001910cceaa72e6190b5bfe53d1f7478b98f2bcac0531f8c436d.m3u8
+
+💎港台1💎,#genre#
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+PopC,http://bxtv.3a.ink/api.php?id=popc
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+NOW新闻,http://bxtv.3a.ink/api.php?id=now
+广东体育,http://bxtv.3a.ink/api.php?id=gdty
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
+💎港台2💎,#genre#
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
+非凡新闻,rtmp://f13h.mine.nu:1935/sat/tv581
+华视,rtmp://f13h.mine.nu:1935/sat/tv111
+民视,rtmp://f13h.mine.nu:1935/sat/tv051
+台视,rtmp://f13h.mine.nu:1935/sat/tv071
+纬来日本,rtmp://f13h.mine.nu:1935/sat/tv771
+中视,rtmp://f13h.mine.nu:1935/sat/tv091
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+唯心电视,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
+
+
+
+
+
+
+
+
 █████████████████████████████████████████████
 📺AKTV(挂了),#genre#
 █████████████████████████████████████████████
@@ -2298,6 +2365,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 黄金时代(2025)
 香港探秘地图(2025)
 执法者们(2025)
+
 
 
 
