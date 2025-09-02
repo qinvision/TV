@@ -15,9 +15,11 @@ https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/m
 
 
 特别节目,#genre#
-纪念中国人民,http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-抗日战争胜利,http://120.202.94.181:9446/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-八十周年,http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+9.3阅兵直播,http://jackgao.top:35455/bilibili/8178490
+9.3阅兵直播1,http://jackgao.top:35455/douyin/870887192950
+9.3阅兵直播2,http://jackgao.top:35455/bilibili/22142427
+9.3阅兵直播3,http://jackgao.top:35455/douyin/456815963645
 
 █████████████████████████████████████████████
 📺长沙电信,#genre#
@@ -2226,6 +2228,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 黄金时代(2025)
 香港探秘地图(2025)
 执法者们(2025)
+
 
 
 
