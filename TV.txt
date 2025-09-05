@@ -363,6 +363,18 @@ RRR正片,https://vodcnd12.myqqdd.com/20250802/bw5yBT19/index.m3u8
 暗黑破坏神：竞逐一切正片,https://vodcnd06.myqqdd.com/20250801/jbiH3BVm/index.m3u8
 波斯坦妮·卡迪娜拉正片,https://vodcnd06.myqqdd.com/20250801/KpFg6V3u/index.m3u8
 
+松1,http://devpulllive.xylink.com/live/b3569cb261f947442c217e2c62034e32.flv
+松2,http://devpulllive.xylink.com/live/97664793124940d1e22d109714283452.flv
+松3,http://devpulllive.xylink.com/live/f899df208160a513114c035e866ef11d.flv
+彩虹e,http://devpulllive.xylink.com/live/a816b46b65fbb18991d49aab54ea99b1.flv
+彩虹K,http://devpulllive.xylink.com/live/6e826041f8d14188bdca0646d5e316cb.flv
+彩虹电影,http://devpulllive.xylink.com/live/78fe2bb0818e6a043c98ccca4142354f.flv
+潘朵拉,http://devpulllive.xylink.com/live/5849d7f77a441de6181ae42cae8d05e1.flv
+惊艳台,http://devpulllive.xylink.com/live/caccda5168fa54569dddf7b2bdb04d1d.flv
+香蕉台,http://devpulllive.xylink.com/live/50078bdfa8105d0954577b2d1e21cd48.flv
+玩家,http://devpulllive.xylink.com/live/ddfd2b8c584a61e9b563bc398d2dfa90.flv
+极限电影,http://devpulllive.xylink.com/live/831471681f29b9b8a95d9de0b3f7d235.flv
+
 
 
 
