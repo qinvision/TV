@@ -4,7 +4,7 @@ Fashion4K,#genre#
 请更换电影版,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 更多精彩节目,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-
+1,https://hd.ijycnd.com/play/zbqJGB7d/index.m3u8
 
 
 
